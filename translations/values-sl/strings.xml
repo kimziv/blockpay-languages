@@ -231,6 +231,6 @@
     <string name="blocktrades_instructions_c">2. Pojdite na spletno denarnico (https://bitshares.openledger.info) in kupite nekaj TRADE.USDLABOR žetonov (kupite jih kolikor želite, da se omogoči potrjevanje Bitcoin in Altcoin transakcij).</string>
     <string name="blocktrades_instructions_d">3. Pošlji 1 TRADE.USDLABOR žeton iz računa Bitshares (s spletno denarnico) na "blocktrades" račun in v tipu polja memo vaš v Blocktrades uporabljeni e-poštni naslov. Ta korak povezuje vaš Bitshares račun z vašim Blocktrades računom in dokazuje, da ste lastnik Bitshares računa, tako da lahko Blocktrades umakne količine poroštvenih iz računa Blocktrades.</string>
     <string name="blocktrades_instructions_e">4. Vnesite Blocktrades e-naslov in geslo v polja zgoraj.</string>
-    <string name="blocktrades_instructions_f">VNESI> 5. Vnesite največjo možno velikost transakcije pri uporabi Blocktrades računa. Znesek, ki ga vnesete tukaj, ne more presegati zneska TRADE.USDLABOR žetonov, ki ste jih kupili. Več informacij:</string>
+    <string name="blocktrades_instructions_f">VNESI- 5. Vnesite največjo možno velikost transakcije pri uporabi Blocktrades računa. Znesek, ki ga vnesete tukaj, ne more presegati zneska TRADE.USDLABOR žetonov, ki ste jih kupili. Več informacij:</string>
 
 </resources>
