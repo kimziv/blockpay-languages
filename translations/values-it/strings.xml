@@ -53,13 +53,13 @@
 
     <string name="license">Licenza</string>
     <string name="exception_encountered_msg">Si prega di correggere le impostazioni e tornare</string>
-    <string name="applicable_reward_points">"Punti Reward applicabili</string>
-    <string name="dismiss">"Respingere</string>
-    <string name="accept">"Accettare</string>
-    <string name="cancel">"Annulla</string>
-    <string name="select">"Selezionare</string>
-    <string name="are_you_sure">"Sei sicuro?</string>
-    <string name="Yes">"Sì</string>
+    <string name="applicable_reward_points">Punti Reward applicabili</string>
+    <string name="dismiss">Respingere</string>
+    <string name="accept">Accettare</string>
+    <string name="cancel">Annulla</string>
+    <string name="select">Selezionare</string>
+    <string name="are_you_sure">Sei sicuro?</string>
+    <string name="Yes">Sì</string>
     <string name="no">No</string>
     <string name="gravatar">gravatar</string>
     <string name="dates_and_time_as_old">Tanggal dan waktu Sebagai</string>

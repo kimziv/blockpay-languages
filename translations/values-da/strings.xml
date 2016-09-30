@@ -51,13 +51,13 @@
 
     <string name="license">Licens</string>
     <string name="exception_encountered_msg">Ret dine indstillinger og komme tilbage</string>
-    <string name="applicable_reward_points">"Gældende belønningspoint</string>
-    <string name="dismiss">"Afskedige</string>
-    <string name="accept">"Acceptere</string>
-    <string name="cancel">"Ophæve</string>
-    <string name="select">"Vælge</string>
-    <string name="are_you_sure">"Er du sikker?</string>
-    <string name="Yes">"Ja</string>
+    <string name="applicable_reward_points">Gældende belønningspoint</string>
+    <string name="dismiss">Afskedige</string>
+    <string name="accept">Acceptere</string>
+    <string name="cancel">Ophæve</string>
+    <string name="select">Vælge</string>
+    <string name="are_you_sure">Er du sikker?</string>
+    <string name="Yes">Ja</string>
     <string name="no">Ingen</string>
     <string name="gravatar">Gravatar</string>
     <string name="dates_and_time_as_old">Termíny a čas jako</string>

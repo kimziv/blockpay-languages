@@ -50,13 +50,13 @@
 
     <string name="license">Licence</string>
     <string name="exception_encountered_msg">Sil vous plaît corriger vos paramètres et revenir</string>
-    <string name="applicable_reward_points">"Points de Récompense applicables</string>
-    <string name="dismiss">"Rejeter</string>
-    <string name="accept">"Acceptez</string>
-    <string name="cancel">"Annuler</string>
-    <string name="select">"Sélectionner</string>
-    <string name="are_you_sure">"Êtes-vous sûr?</string>
-    <string name="Yes">"Oui</string>
+    <string name="applicable_reward_points">Points de Récompense applicables</string>
+    <string name="dismiss">Rejeter</string>
+    <string name="accept">Acceptez</string>
+    <string name="cancel">Annuler</string>
+    <string name="select">Sélectionner</string>
+    <string name="are_you_sure">Êtes-vous sûr?</string>
+    <string name="Yes">Oui</string>
     <string name="no">Non</string>
     <string name="gravatar">Gravatar</string>
     <string name="dates_and_time_as_old">Päivämäärät ja Time As</string>

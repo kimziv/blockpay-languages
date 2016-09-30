@@ -50,13 +50,13 @@
 
     <string name="license">执照</string>
     <string name="exception_encountered_msg">请修正您的设置并取回</string>
-    <string name="applicable_reward_points">“适用奖励积分</string>
-    <string name="dismiss">“解雇</string>
-    <string name="accept">“接受</string>
-    <string name="cancel">“取消</string>
-    <string name="select">“选择</string>
-    <string name="are_you_sure">“你确定？</string>
-    <string name="Yes">“是</string>
+    <string name="applicable_reward_points">适用奖励积分</string>
+    <string name="dismiss">解雇</string>
+    <string name="accept">接受</string>
+    <string name="cancel">取消</string>
+    <string name="select">选择</string>
+    <string name="are_you_sure">你确定？</string>
+    <string name="Yes">是</string>
     <string name="no">没有</string>
     <string name="gravatar">的Gravatar</string>
     <string name="dates_and_time_as_old">Les dates i el temps com</string>

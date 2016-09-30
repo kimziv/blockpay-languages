@@ -53,13 +53,13 @@
 
     <string name="license">Licenca</string>
     <string name="exception_encountered_msg">Molimo vas da popravite vaše postavke i vratite</string>
-    <string name="applicable_reward_points">"Primjenjivo Nagradni bodovi</string>
-    <string name="dismiss">"Odbaci</string>
-    <string name="accept">"Prihvati</string>
-    <string name="cancel">"Odustani</string>
-    <string name="select">"Izaberite</string>
-    <string name="are_you_sure">"Jesi li siguran?</string>
-    <string name="Yes">"Da</string>
+    <string name="applicable_reward_points">Primjenjivo Nagradni bodovi</string>
+    <string name="dismiss">Odbaci</string>
+    <string name="accept">Prihvati</string>
+    <string name="cancel">Odustani</string>
+    <string name="select">Izaberite</string>
+    <string name="are_you_sure">Jesi li siguran?</string>
+    <string name="Yes">Da</string>
     <string name="no">ne</string>
     <string name="gravatar">Gravatar</string>
     <string name="dates_and_time_as_old">তারিখ ও সময়</string>

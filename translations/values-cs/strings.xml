@@ -53,13 +53,13 @@
 
     <string name="license">Licence</string>
     <string name="exception_encountered_msg">Opravte nastavení a vrátit se zpět</string>
-    <string name="applicable_reward_points">"Použitelná bodů</string>
-    <string name="dismiss">"Propustit</string>
-    <string name="accept">"Akceptovat</string>
-    <string name="cancel">"Zrušit</string>
-    <string name="select">"Vybrat</string>
-    <string name="are_you_sure">"Jsi si jistá?</string>
-    <string name="Yes">"Ano</string>
+    <string name="applicable_reward_points">Použitelná bodů</string>
+    <string name="dismiss">Propustit</string>
+    <string name="accept">Akceptovat</string>
+    <string name="cancel">Zrušit</string>
+    <string name="select">Vybrat</string>
+    <string name="are_you_sure">Jsi si jistá?</string>
+    <string name="Yes">Ano</string>
     <string name="no">Ne</string>
     <string name="gravatar">Gravatar</string>
     <string name="dates_and_time_as_old">Datumi i vremena kao</string>

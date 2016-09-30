@@ -50,13 +50,13 @@
 
     <string name="license">Liçensë</string>
     <string name="exception_encountered_msg">Ju lutemi të rregulluar parametrat tuaj dhe të kthehet</string>
-    <string name="applicable_reward_points">"Pikat aplikueshme shpërblim</string>
-    <string name="dismiss">"Shkarkoj</string>
-    <string name="accept">"Prano</string>
-    <string name="cancel">"Anulo</string>
-    <string name="select">"Zgjidh</string>
-    <string name="are_you_sure">"A je i sigurt?</string>
-    <string name="Yes">"Po</string>
+    <string name="applicable_reward_points">Pikat aplikueshme shpërblim</string>
+    <string name="dismiss">Shkarkoj</string>
+    <string name="accept">Prano</string>
+    <string name="cancel">Anulo</string>
+    <string name="select">Zgjidh</string>
+    <string name="are_you_sure">A je i sigurt?</string>
+    <string name="Yes">Po</string>
     <string name="no">jo</string>
     <string name="gravatar">Gravatar</string>
     <string name="dates_and_time_as_old">Dates and Time As</string>

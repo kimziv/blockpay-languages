@@ -46,13 +46,13 @@
 
     <string name="license">רישיון</string>
     <string name="exception_encountered_msg">תקן את ההגדרות שלך ולקבל בחזרה</string>
-    <string name="applicable_reward_points">"נקודות גמול החלימו</string>
-    <string name="dismiss">"לשחרר</string>
-    <string name="accept">"לְקַבֵּל</string>
-    <string name="cancel">"לְבַטֵל</string>
-    <string name="select">"בחר</string>
-    <string name="are_you_sure">"האם אתה בטוח?</string>
-    <string name="Yes">"כן</string>
+    <string name="applicable_reward_points">נקודות גמול החלימו</string>
+    <string name="dismiss">לשחרר</string>
+    <string name="accept">לְקַבֵּל</string>
+    <string name="cancel">לְבַטֵל</string>
+    <string name="select">בחר</string>
+    <string name="are_you_sure">האם אתה בטוח?</string>
+    <string name="Yes">כן</string>
     <string name="no">לא</string>
     <string name="gravatar">Gravatar</string>
     <string name="dates_and_time_as_old">Ημερομηνίες και ώρα ως</string>

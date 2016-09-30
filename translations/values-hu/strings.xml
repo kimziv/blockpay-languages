@@ -46,13 +46,13 @@
 
     <string name="license">Engedély</string>
     <string name="exception_encountered_msg">Kérjük, javítsa a beállításokat és kezdje újra</string>
-    <string name="applicable_reward_points">"Alkalmazható Jutalom Pont</string>
-    <string name="dismiss">"elvetés</string>
-    <string name="accept">"Elfogad</string>
-    <string name="cancel">"Megszüntetés</string>
-    <string name="select">"Kiválaszt</string>
-    <string name="are_you_sure">"Biztos vagy benne?</string>
-    <string name="Yes">"Igen</string>
+    <string name="applicable_reward_points">Alkalmazható Jutalom Pont</string>
+    <string name="dismiss">elvetés</string>
+    <string name="accept">Elfogad</string>
+    <string name="cancel">Megszüntetés</string>
+    <string name="select">Kiválaszt</string>
+    <string name="are_you_sure">Biztos vagy benne?</string>
+    <string name="Yes">Igen</string>
     <string name="no">Nem</string>
     <string name="gravatar">Gravatar</string>
     <string name="dates_and_time_as_old">तिथि और समय के रूप में</string>

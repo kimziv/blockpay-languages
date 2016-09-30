@@ -38,7 +38,7 @@
     <string name="txt_enter_private_key">يرجى إدخال المفتاح الخاص</string>
     <string name="txt_no_internet_connection">لا اتصال إنترنت</string>
     <string name="txt_unable_to_get_market_cap">غير قادر على الحصول على رأس المال السوقي</string>
-    <string name="txt_altcoins_should_not_more_than"Altcoins لا يجوز ان تكون اكثر من 7</string>
+    <string name="txt_altcoins_should_not_more_than">Altcoins لا يجوز ان تكون اكثر من 7</string>
     <string name="txt_agree">اوافق</string>
     <string name="txt_account_does_not_exist">الحساب غير موجود</string>
     <string name="txt_invalid_email">البريد الالكتروني غير صحيح</string>
@@ -46,13 +46,13 @@
 
     <string name="license">رخصة</string>
     <string name="exception_encountered_msg">يرجى تصحيح الإعدادات الخاصة بك ونعود</string>
-    <string name="applicable_reward_points">"نقاط مكافأة للتطبيق</string>
-    <string name="dismiss">"خروج</string>
-    <string name="accept">"قبول</string>
-    <string name="cancel">"إلغاء</string>
-    <string name="select">"اختار</string>
-    <string name="are_you_sure">"هل أنت واثق؟</string>
-    <string name="Yes">"نعم</string>
+    <string name="applicable_reward_points">نقاط مكافأة للتطبيق</string>
+    <string name="dismiss">خروج</string>
+    <string name="accept">قبول</string>
+    <string name="cancel">إلغاء</string>
+    <string name="select">اختار</string>
+    <string name="are_you_sure">هل أنت واثق؟</string>
+    <string name="Yes">نعم</string>
     <string name="no">لا</string>
     <string name="gravatar">Gravatar</string>
     <string name="dates_and_time_as_old">الاوقات سابقا</string>

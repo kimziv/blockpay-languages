@@ -50,13 +50,13 @@
 
     <string name="license">լիցենզիա</string>
     <string name="exception_encountered_msg">Ուղղեք Ձեր կայանքները եւ ստանալ ետ</string>
-    <string name="applicable_reward_points">«Կիրառելի Reward Միավոր</string>
-    <string name="dismiss">«Արձակիր</string>
-    <string name="accept">"Ընդունել</string>
-    <string name="cancel">«Չեղարկել</string>
-    <string name="select">«Ընտրել</string>
-    <string name="are_you_sure">"Համոզված ես?</string>
-    <string name="Yes">«Այո</string>
+    <string name="applicable_reward_points">Կիրառելի Reward Միավոր</string>
+    <string name="dismiss">Արձակիր</string>
+    <string name="accept">Ընդունել</string>
+    <string name="cancel">Չեղարկել</string>
+    <string name="select">Ընտրել</string>
+    <string name="are_you_sure">ամոզված ես?</string>
+    <string name="Yes">Այո</string>
     <string name="no">ոչ</string>
     <string name="gravatar">Gravatar</string>
     <string name="dates_and_time_as_old">Ամսաթվերը եւ ժամանակը, ինչպես</string>

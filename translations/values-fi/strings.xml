@@ -46,13 +46,13 @@
 
     <string name="license">lisenssi</string>
     <string name="exception_encountered_msg">Korjaa asetukset ja saada takaisin</string>
-    <string name="applicable_reward_points">"Sovellettavia Reward Points</string>
-    <string name="dismiss">"Hylkää</string>
-    <string name="accept">"Hyväksyä</string>
-    <string name="cancel">"Peruuttaa</string>
-    <string name="select">"Valitse</string>
-    <string name="are_you_sure">"Oletko varma?</string>
-    <string name="Yes">"Kyllä</string>
+    <string name="applicable_reward_points">Sovellettavia Reward Points</string>
+    <string name="dismiss">Hylkää</string>
+    <string name="accept">Hyväksyä</string>
+    <string name="cancel">Peruuttaa</string>
+    <string name="select">Valitse</string>
+    <string name="are_you_sure">Oletko varma?</string>
+    <string name="Yes">Kyllä</string>
     <string name="no">Ei</string>
     <string name="gravatar">Gravatar</string>
     <string name="dates_and_time_as_old">تاریخ و به عنوان زمان</string>

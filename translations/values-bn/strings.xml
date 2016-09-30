@@ -46,13 +46,13 @@
 
     <string name="license">লাইসেন্স</string>
     <string name="exception_encountered_msg">আপনার সেটিংস ঠিক এবং ফিরে পেতে দয়া করে</string>
-    <string name="applicable_reward_points">"প্রযোজ্য পুরস্কার পয়েন্ট</string>
-    <string name="dismiss">"খারিজ</string>
-    <string name="accept">"স্বীকার</string>
-    <string name="cancel">"বাতিল</string>
-    <string name="select">"নির্বাচন করুন</string>
-    <string name="are_you_sure">"তুমি কি নিশ্চিত?</string>
-    <string name="Yes">"হ্যাঁ</string>
+    <string name="applicable_reward_points">প্রযোজ্য পুরস্কার পয়েন্ট</string>
+    <string name="dismiss">খারিজ</string>
+    <string name="accept">স্বীকার</string>
+    <string name="cancel">বাতিল</string>
+    <string name="select">নির্বাচন করুন</string>
+    <string name="are_you_sure">তুমি কি নিশ্চিত?</string>
+    <string name="Yes">হ্যাঁ</string>
     <string name="no">না</string>
     <string name="gravatar">Gravatar</string>
     <string name="dates_and_time_as_old">Ամսաթվերը եւ ժամանակը, ինչպես</string>

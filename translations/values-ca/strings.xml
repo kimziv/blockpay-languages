@@ -54,13 +54,13 @@
 
     <string name="license">llicència</string>
     <string name="exception_encountered_msg">Si us plau, corregeixi els paràmetres i tornar</string>
-    <string name="applicable_reward_points">"Punts de recompensa aplicables</string>
-    <string name="dismiss">"Descarta</string>
-    <string name="accept">"D\'acord</string>
-    <string name="cancel">"Cancel · lar</string>
-    <string name="select">"Seleccioneu</string>
-    <string name="are_you_sure">"Estàs segur?</string>
-    <string name="Yes">"Sí</string>
+    <string name="applicable_reward_points">Punts de recompensa aplicables</string>
+    <string name="dismiss">Descarta</string>
+    <string name="accept">D\'acord</string>
+    <string name="cancel">Cancel · lar</string>
+    <string name="select">Seleccioneu</string>
+    <string name="are_you_sure">Estàs segur?</string>
+    <string name="Yes">Sí</string>
     <string name="no">No</string>
     <string name="gravatar">gravatar</string>
     <string name="dates_and_time_as_old">Дати и време,</string>

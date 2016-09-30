@@ -50,13 +50,13 @@
 
     <string name="license">Licentie</string>
     <string name="exception_encountered_msg">Corrigeer de instellingen om terug te krijgen</string>
-    <string name="applicable_reward_points">"Toepasselijke Reward Points</string>
-    <string name="dismiss">"Negeren</string>
-    <string name="accept">"Accepteren</string>
-    <string name="cancel">"Annuleer</string>
-    <string name="select">"Selecteer</string>
-    <string name="are_you_sure">"Weet je het zeker?</string>
-    <string name="Yes">"Ja</string>
+    <string name="applicable_reward_points">Toepasselijke Reward Points</string>
+    <string name="dismiss">Negeren</string>
+    <string name="accept">Accepteren</string>
+    <string name="cancel">Annuleer</string>
+    <string name="select">Selecteer</string>
+    <string name="are_you_sure">Weet je het zeker?</string>
+    <string name="Yes">Ja</string>
     <string name="no">Nee</string>
     <string name="gravatar">gravatar</string>
     <string name="dates_and_time_as_old">Eerdere data en tijden</string>

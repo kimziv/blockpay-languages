@@ -54,13 +54,13 @@
 
     <string name="license">Licencia</string>
     <string name="exception_encountered_msg">Por favor, corrija los ajustes y volver</string>
-    <string name="applicable_reward_points">"Puntos de recompensa Aplicables</string>
-    <string name="dismiss">"Despedir</string>
-    <string name="accept">"Aceptar</string>
-    <string name="cancel">"Cancelar</string>
-    <string name="select">"Seleccionar</string>
-    <string name="are_you_sure">"¿Estás seguro?</string>
-    <string name="Yes">"Sí</string>
+    <string name="applicable_reward_points">Puntos de recompensa Aplicables</string>
+    <string name="dismiss">Despedir</string>
+    <string name="accept">Aceptar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="select">Seleccionar</string>
+    <string name="are_you_sure">¿Estás seguro?</string>
+    <string name="Yes">Sí</string>
     <string name="no">No</string>
     <string name="gravatar">gravatar</string>
     <string name="dates_and_time_as_old">Datumi in čas</string>

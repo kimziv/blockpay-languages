@@ -53,13 +53,13 @@
 
     <string name="license">Lizenz</string>
     <string name="exception_encountered_msg">Bitte korrigieren Sie Ihre Einstellungen und zurück</string>
-    <string name="applicable_reward_points">"Anwendbar Belohnungspunkte</string>
-    <string name="dismiss">"Entlassen</string>
-    <string name="accept">"Akzeptieren</string>
-    <string name="cancel">"Stornieren</string>
-    <string name="select">"Wählen</string>
-    <string name="are_you_sure">"Bist du sicher?</string>
-    <string name="Yes">"Ja</string>
+    <string name="applicable_reward_points">Anwendbar Belohnungspunkte</string>
+    <string name="dismiss">Entlassen</string>
+    <string name="accept">Akzeptieren</string>
+    <string name="cancel">Stornieren</string>
+    <string name="select">Wählen</string>
+    <string name="are_you_sure">Bist du sicher?</string>
+    <string name="Yes">Ja</string>
     <string name="no">Nein</string>
     <string name="gravatar">Gravatar</string>
     <string name="dates_and_time_as_old">Dates et heures</string>

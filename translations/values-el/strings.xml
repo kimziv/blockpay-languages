@@ -53,13 +53,13 @@
 
     <string name="license">Άδεια</string>
     <string name="exception_encountered_msg">Διορθώστε τις ρυθμίσεις σας και να πάρετε πίσω</string>
-    <string name="applicable_reward_points">«Εφαρμοστέο Πόντοι Ανταμοιβής</string>
-    <string name="dismiss">"Απολύω</string>
-    <string name="accept">"Αποδέχομαι</string>
-    <string name="cancel">"Ματαίωση</string>
-    <string name="select">"Επιλέγω</string>
-    <string name="are_you_sure">"Είσαι σίγουρος?</string>
-    <string name="Yes">"Ναί</string>
+    <string name="applicable_reward_points">Εφαρμοστέο Πόντοι Ανταμοιβής</string>
+    <string name="dismiss">Απολύω</string>
+    <string name="accept">Αποδέχομαι</string>
+    <string name="cancel">Ματαίωση</string>
+    <string name="select">Επιλέγω</string>
+    <string name="are_you_sure">Είσαι σίγουρος?</string>
+    <string name="Yes">Ναί</string>
     <string name="no">Όχι</string>
     <string name="gravatar">Gravatar</string>
     <string name="dates_and_time_as_old">Termine und Zeit als</string>

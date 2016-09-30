@@ -51,13 +51,13 @@
 
     <string name="license">مجوز</string>
     <string name="exception_encountered_msg">لطفا تنظیمات خود را تعمیر و تماس</string>
-    <string name="applicable_reward_points">"پاداش امتیاز قابل اجرا</string>
-    <string name="dismiss">"رد</string>
-    <string name="accept">"قبول کردن</string>
-    <string name="cancel">"لغو</string>
-    <string name="select">"انتخاب کنید</string>
-    <string name="are_you_sure">"شما مطمئن هستید؟</string>
-    <string name="Yes">"بله</string>
+    <string name="applicable_reward_points">پاداش امتیاز قابل اجرا</string>
+    <string name="dismiss">رد</string>
+    <string name="accept">قبول کردن</string>
+    <string name="cancel">لغو</string>
+    <string name="select">انتخاب کنید</string>
+    <string name="are_you_sure">شما مطمئن هستید؟</string>
+    <string name="Yes">بله</string>
     <string name="no">خیر</string>
     <string name="gravatar">آواتار</string>
     <string name="dates_and_time_as_old">Kuupäevad ja kellaaeg</string>
