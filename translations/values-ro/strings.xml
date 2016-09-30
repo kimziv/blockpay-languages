@@ -233,4 +233,19 @@
     <string name="blocktrades_instructions_e">4. Introduceti adresa dvs. de email Blocktrades și parola în câmpurile de mai sus.</string>
     <string name="blocktrades_instructions_f">> 5. Introduceți dimensiunea tranzacției maximă atunci când utilizați contul dvs. Blocktrades finanțat. Suma pe care le introduceți aici nu poate depăși suma de jetoane TRADE.USDLABOR le-ați achiziționat. Mai multe informatii:</string>
 
+    <string name="backup">.bin BACKUP</string>
+    <string name="secure_pin">EDIT PIN</string>
+    <string name="old_pin">Vechiul PIN 6 cifre</string>
+    <string name="txt_edit">SALVAȚI</string>
+    <string name="please_enter_old_6_digit_pin">Vă rugăm să introduceți vechiul cod PIN format din 6 cifre</string>
+    <string name="incorrect_old_pin">PIN vechi incorect</string>
+    <string name="pin_changed_successfully">PIN-a schimbat cu succes</string>
+
+    <string name="please_enter_8_digit_pin">Vă rugăm să introduceți 8 cifre pini</string>
+    <string name="please_enter_8_digit_pin_confirm">Vă rugăm să introduceți confirmare pin 8 cifre</string>
+    <string name="txt_8_digits_pin">PIN 8 cifre</string>
+<string name="txt_8_digits_pin_confirm">8 cifre Confirmați codul PIN</string>
+
+    <string name="old_pin_8_digits">Vechiul PIN de 8 cifre</string>
+    <string name="please_enter_old_8_digit_pin">Vă rugăm să introduceți vechiul cod PIN de 8 cifre</string>
 </resources>

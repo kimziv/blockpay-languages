@@ -211,5 +211,20 @@
     <string name="blocktrades_instructions_d">3. Küldje 1 TRADE.USDLABOR jelzőt a Bitshares számla (a web pénztárca) a "blocktrades" számla és a memo mezőben írja be a fiókja e-mail címét Blocktrades. Ez a lépés összeköti a Bitshares-fiókját az Blocktrades fiókjába, és azt bizonyítja, hogy Ön a Bitshares fiókkal, így Blocktrades visszavonhatja kezesség összegét átmenetileg a Blocktrades fiókjába.</string>
     <string name="blocktrades_instructions_e">4. Írja be az e-mail Blocktrades és jelszavát a fenti területeken.</string>
     <string name="blocktrades_instructions_f">> 5. Írja be a max tranzakció mérete, ha használja a támogatott Blocktrades venni. Az összeg, amit meg itt nem haladhatja meg a TRADE.USDLABOR zsetont vásárolt. Több információ:</string>
+    <string name="backup">BACKUP .bin</string>
+    <string name="secure_pin">EDIT PIN</string>
+    <string name="old_pin">Régi 6-számjegyű PIN</string>
+    <string name="txt_edit">MENTÉS</string>
+    <string name="please_enter_old_6_digit_pin">Kérjük, adja meg a régi 6-jegyű pin</string>
+    <string name="incorrect_old_pin">Helytelen régi PIN</string>
+    <string name="pin_changed_successfully">A PIN módosítása sikeres</string>
+
+    <string name="please_enter_8_digit_pin">Kérjük, írja be a 8-jegyű pin</string>
+    <string name="please_enter_8_digit_pin_confirm">Kérjük, írja be a 8-jegyű PIN megerősítés</string>
+    <string name="txt_8_digits_pin">8 számjegy PIN</string>
+<string name="txt_8_digits_pin_confirm">8 számjegy PIN megerősítés</string>
+
+    <string name="old_pin_8_digits">Régi 8-számjegyű PIN</string>
+    <string name="please_enter_old_8_digit_pin">Kérjük, adja meg a régi 8-jegyű pin</string>
 
 </resources>

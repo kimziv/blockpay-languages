@@ -224,4 +224,18 @@
     <string name="blocktrades_account_title">konto Blocktrades</string>
     <string name="register_account_title">Zarejestruj nowe konto</string>
 
+    <string name="backup">BACKUP .bin</string>
+    <string name="secure_pin">EDIT PIN</string>
+    <string name="old_pin">Stary 6-cyfrowy PIN</string>
+    <string name="txt_edit">ZAPISAĆ</string>
+    <string name="please_enter_old_6_digit_pin">Proszę podać stary 6-cyfrowy kod PIN</string>
+    <string name="incorrect_old_pin">Nieprawidłowy stary PIN</string>
+    <string name="pin_changed_successfully">PIN został pomyślnie zmieniony</string>
+
+    <string name="please_enter_8_digit_pin">Proszę podać 8-cyfrowy kod PIN</string>
+    <string name="please_enter_8_digit_pin_confirm">Proszę podać 8-cyfrowy kod potwierdzenia pin</string>
+    <string name="txt_8_digits_pin">8-cyfrowy kod PIN</string>
+<string name="txt_8_digits_pin_confirm">8-cyfrowy kod PIN Potwierdź</string>
+    <string name="old_pin_8_digits">Stary 8-cyfrowy kod PIN</string>
+    <string name="please_enter_old_8_digit_pin">Proszę podać stare 8-cyfrowy kod PIN</string>
 </resources>

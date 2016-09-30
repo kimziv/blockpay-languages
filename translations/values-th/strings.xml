@@ -230,4 +230,19 @@
     <string name="blocktrades_instructions_e">4. ป้อนอีเมล Blocktrades และรหัสผ่านของคุณในช่องดังกล่าวข้างต้น</string>
     <string name="blocktrades_instructions_f">> 5. ป้อนขนาดรายการสูงสุดเมื่อใช้บัญชีของคุณได้รับการสนับสนุน Blocktrades จำนวนเงินที่คุณป้อนที่นี่จะต้องไม่เกินจำนวนเงินของสัญญาณ TRADE.USDLABOR ที่คุณซื้อ ข้อมูลเพิ่มเติม:</string>
 
+    <string name="backup">ถังขยะสำรอง</string>
+    <string name="secure_pin">PIN แก้ไข</string>
+    <string name="old_pin">PIN เก่า 6 หลัก</string>
+    <string name="txt_edit">ประหยัด</string>
+    <string name="please_enter_old_6_digit_pin">กรุณากรอก PIN เก่า 6 หลัก</string>
+    <string name="incorrect_old_pin">PIN เก่าที่ไม่ถูกต้อง</string>
+    <string name="pin_changed_successfully">เปลี่ยน PIN ประสบความสำเร็จ</string>
+
+    <string name="please_enter_8_digit_pin">กรุณากรอก PIN 8 หลัก</string>
+    <string name="please_enter_8_digit_pin_confirm">กรุณากรอกยืนยันขา 8 หลัก</string>
+    <string name="txt_8_digits_pin">PIN 8 หลัก</string>
+<string name="txt_8_digits_pin_confirm">8 ตัวเลขยืนยัน PIN</string>
+
+    <string name="old_pin_8_digits">PIN เก่า 8 หลัก</string>
+    <string name="please_enter_old_8_digit_pin">กรุณากรอก PIN เก่า 8 หลัก</string>
 </resources>

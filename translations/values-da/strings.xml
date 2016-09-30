@@ -225,4 +225,19 @@
     <string name="blocktrades_instructions_e">4. Indtast din Blocktrades email og adgangskode i felterne ovenfor.</string>
     <string name="blocktrades_instructions_f">> 5. Indtast max transaktion størrelse, når du bruger din finansieret Blocktrades konto. Det beløb, du indtaster her, kan ikke overstige den mængde TRADE.USDLABOR poletter du har købt. Mere info:</string>
 
+    <string name="backup">BACKUP .bin</string>
+    <string name="secure_pin">EDIT PIN</string>
+    <string name="old_pin">Old 6-cifre pinkode</string>
+    <string name="txt_edit">SPARE</string>
+    <string name="please_enter_old_6_digit_pin">Indtast venligst gamle 6-cifret pin</string>
+    <string name="incorrect_old_pin">Forkert gamle PIN-kode</string>
+    <string name="pin_changed_successfully">PIN ændret med succes</string>
+
+    <string name="please_enter_8_digit_pin">Indtast 8-cifret pin</string>
+    <string name="please_enter_8_digit_pin_confirm">Indtast 8-cifret pin bekræftelse</string>
+    <string name="txt_8_digits_pin">PIN 8-cifre</string>
+<string name="txt_8_digits_pin_confirm">8-cifre PIN confirm</string>
+
+    <string name="old_pin_8_digits">Gammel 8-cifre PIN</string>
+    <string name="please_enter_old_8_digit_pin">Indtast venligst gamle 8-cifret pin</string>
 </resources>

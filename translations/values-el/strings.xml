@@ -231,4 +231,19 @@
     <string name="blocktrades_instructions_e">4. Εισάγετε Blocktrades e-mail και τον κωδικό πρόσβασής σας στα παραπάνω πεδία.</string>
     <string name="blocktrades_instructions_f">> 5. Εισάγετε το μέγιστο μέγεθος της συναλλαγής, όταν χρησιμοποιεί το λογαριασμό σας χρηματοδοτούνται Blocktrades. Το ποσό που εισάγετε εδώ δεν μπορεί να υπερβαίνει το ποσό των μαρκών TRADE.USDLABOR έχετε αγοράσει. Περισσότερες πληροφορίες:</string>
 
+    <string name="backup">BACKUP .bin</string>
+    <string name="secure_pin">EDIT PIN</string>
+    <string name="old_pin">Παλιά 6-ψηφία PIN</string>
+    <string name="txt_edit">ΑΠΟΘΗΚΕΎΣΕΤΕ</string>
+    <string name="please_enter_old_6_digit_pin">Παρακαλούμε, εισάγετε ηλικίας 6-ψήφιο κωδικό PIN</string>
+    <string name="incorrect_old_pin">Εσφαλμένη παλιό PIN</string>
+    <string name="pin_changed_successfully">PIN άλλαξε με επιτυχία</string>
+
+    <string name="please_enter_8_digit_pin">Παρακαλούμε, εισάγετε 8-ψήφιο κωδικό PIN</string>
+    <string name="please_enter_8_digit_pin_confirm">Παρακαλούμε, εισάγετε 8-ψήφιο επιβεβαίωση pin</string>
+    <string name="txt_8_digits_pin">PIN 8-ψηφία</string>
+<string name="txt_8_digits_pin_confirm">Επιβεβαιώστε το PIN 8-ψηφία</string>
+    <string name="old_pin_8_digits">Παλιά 8-ψηφίων PIN</string>
+    <string name="please_enter_old_8_digit_pin">Παρακαλώ εισάγετε τον παλιό 8-ψήφιο κωδικό PIN</string>
+
 </resources>

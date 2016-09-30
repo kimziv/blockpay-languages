@@ -231,4 +231,19 @@
     <string name="blocktrades_instructions_e">4. Въведете Вашите Blocktrades имейл и парола в полетата по-горе.</string>
     <string name="blocktrades_instructions_f">5. Въведете максималният размер за сделка, когато използвате Вашата Blocktrades сметка. Сумата, не може да надвишава размера на TRADE.USDLABOR жетоните, които сте закупили. Повече информация:</string>
 
+    <string name="backup">BACKUP .bin</string>
+    <string name="secure_pin">EDIT PIN</string>
+    <string name="old_pin">Old 6-цифри PIN</string>
+    <string name="txt_edit">SAVE</string>
+    <string name="please_enter_old_6_digit_pin">Моля, въведете стария 6-цифрен ПИН</string>
+    <string name="incorrect_old_pin">Неправилно стар PIN</string>
+    <string name="pin_changed_successfully">PIN променена успешно</string>
+
+    <string name="please_enter_8_digit_pin">Моля, въведете 8-цифрен ПИН</string>
+    <string name="please_enter_8_digit_pin_confirm">Моля, въведете 8-цифрен потвърждение щифт</string>
+    <string name="txt_8_digits_pin">PIN 8 цифри</string>
+<string name="txt_8_digits_pin_confirm">8-цифри PIN потвърждават</string>
+
+    <string name="old_pin_8_digits">Old 8-цифри PIN</string>
+    <string name="please_enter_old_8_digit_pin">Моля, въведете стария 8-цифрен ПИН</string>
 </resources>

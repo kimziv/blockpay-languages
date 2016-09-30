@@ -231,4 +231,19 @@
     <string name="blocktrades_instructions_e">4. Մուտքագրեք Ձեր Blocktrades էլփոստը եւ գաղտնաբառը դաշտերը նշված.</string>
     <string name="blocktrades_instructions_f">> 5. Մուտքագրեք Մաքս գործարքի չափը, երբ, օգտագործելով Ձեր ֆինանսավորվող Blocktrades հաշիվը: Այն գումարը, որ դուք լրացրել եք բոլոր Մականուն չի կարող գերազանցել գումարը TRADE.USDLABOR բառանիշների եք ձեռք բերել. Ավելի շատ տեղեկություն:</string>
 
+    <string name="backup">Backup .bin</string>
+    <string name="secure_pin">ԽՄԲԱԳՐԵԼ PIN</string>
+    <string name="old_pin">Old 6-նիշերն PIN</string>
+    <string name="txt_edit">SAVE</string>
+    <string name="please_enter_old_6_digit_pin">Խնդրում ենք մուտք գործել հին 6-նիշանոց ծածկագիրը</string>
+    <string name="incorrect_old_pin">Սխալ ամյա PIN</string>
+    <string name="pin_changed_successfully">PIN փոխվել է հաջողությամբ</string>
+
+    <string name="please_enter_8_digit_pin">Խնդրում ենք մուտք գործել 8-նիշանոց ծածկագիրը</string>
+    <string name="please_enter_8_digit_pin_confirm">Խնդրում ենք մուտք գործել 8-նիշանոց ծածկագիրը հաստատումը</string>
+    <string name="txt_8_digits_pin">8-նիշերն PIN</string>
+<string name="txt_8_digits_pin_confirm">8-նիշերն PIN հաստատում</string>
+
+    <string name="old_pin_8_digits">Old 8-նիշերն PIN</string>
+    <string name="please_enter_old_8_digit_pin">Խնդրում ենք մուտք գործել հին 8-նիշանոց ծածկագիրը</string>
 </resources>

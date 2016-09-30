@@ -233,4 +233,20 @@
     <string name="blocktrades_instructions_e">4. Inserisci la tua email e la password Blocktrades nei campi di cui sopra.</string>
     <string name="blocktrades_instructions_f">> 5. Inserire la dimensione massima della transazione quando si utilizza l\'account Blocktrades finanziato. L\'importo che si inserisce qui non può superare l\'importo di gettoni TRADE.USDLABOR che avete acquistato. Ulteriori informazioni:</string>
 
+   <string name="backup">.bin BACKUP</string>
+    <string name="secure_pin">EDIT PIN</string>
+    <string name="old_pin">Vecchio PIN a 6 cifre</string>
+    <string name="txt_edit">SALVARE</string>
+    <string name="please_enter_old_6_digit_pin">Inserisci il vecchio PIN a 6 cifre</string>
+    <string name="incorrect_old_pin">PIN vecchio errato</string>
+    <string name="pin_changed_successfully">PIN modificato con successo</string>
+
+    <string name="please_enter_8_digit_pin">Si prega di inserire 8 cifre pin</string>
+    <string name="please_enter_8_digit_pin_confirm">Si prega di inserire la conferma pin 8 cifre</string>
+    <string name="txt_8_digits_pin">PIN 8 cifre</string>
+<string name="txt_8_digits_pin_confirm">8-cifre PIN Conferma</string>
+
+    <string name="old_pin_8_digits">Vecchio PIN 8 cifre</string>
+    <string name="please_enter_old_8_digit_pin">Inserisci il vecchio PIN di 8 cifre</string>
+
 </resources>

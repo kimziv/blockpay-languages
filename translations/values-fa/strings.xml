@@ -230,4 +230,19 @@
     <string name="blocktrades_instructions_e">4. وارد کنید ایمیل Blocktrades و رمز عبور خود را به زمینه های فوق.</string>
     <string name="blocktrades_instructions_f">> 5. اندازه معامله حداکثر زمانی که با استفاده از حساب Blocktrades بودجه خود را وارد کنید. مقدار که شما در اینجا وارد کنید می توانید مقدار از نشانه TRADE.USDLABOR شما خریداری کرده اند تجاوز نمی کند. اطلاعات بیشتر:</string>
 
+    <string name="backup">.BIN BACKUP</string>
+    <string name="secure_pin">ویرایش PIN</string>
+    <string name="old_pin">پین قدیمی 6 رقم</string>
+    <string name="txt_edit">صرفه جویی</string>
+    <string name="please_enter_old_6_digit_pin">لطفا پین قدیمی 6 رقمی وارد کنید</string>
+    <string name="incorrect_old_pin">پین اشتباه قدیمی</string>
+    <string name="pin_changed_successfully">پین با موفقیت تغییر</string>
+
+    <string name="please_enter_8_digit_pin">لطفا پین 8 رقمی وارد کنید</string>
+    <string name="please_enter_8_digit_pin_confirm">لطفا پین 8 رقمی تأیید را وارد کنید</string>
+    <string name="txt_8_digits_pin">PIN 8 رقم</string>
+<string name="txt_8_digits_pin_confirm">8-رقم PIN تایید</string>
+
+    <string name="old_pin_8_digits">پین قدیمی 8 رقم</string>
+    <string name="please_enter_old_8_digit_pin">لطفا پین قدیمی 8 رقمی وارد کنید</string>
 </resources>

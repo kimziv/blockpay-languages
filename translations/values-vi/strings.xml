@@ -226,4 +226,19 @@
     <string name="blocktrades_instructions_e">4. Nhập email và mật khẩu Blocktrades của bạn vào các lĩnh vực trên.</string>
     <string name="blocktrades_instructions_f">> 5. Nhập kích thước giao dịch tối đa khi sử dụng tài khoản Blocktrades tài trợ của bạn. Số tiền mà bạn nhập vào đây không thể vượt quá số tiền của thẻ TRADE.USDLABOR bạn đã mua. Thêm thông tin:</string>
 
+    <string name="backup">.bin BACKUP</string>
+    <string name="secure_pin">EDIT PIN</string>
+    <string name="old_pin">Cũ PIN 6-chữ số</string>
+    <string name="txt_edit">TIẾT KIỆM</string>
+    <string name="please_enter_old_6_digit_pin">Vui lòng nhập cũ pin 6 chữ số</string>
+    <string name="incorrect_old_pin">PIN cũ không chính xác</string>
+    <string name="pin_changed_successfully">PIN thay đổi thành công</string>
+
+    <string name="please_enter_8_digit_pin">Vui lòng nhập 8 số pin</string>
+    <string name="please_enter_8_digit_pin_confirm">Vui lòng nhập xác nhận pin 8 chữ số</string>
+    <string name="txt_8_digits_pin">PIN 8-chữ số</string>
+<string name="txt_8_digits_pin_confirm">8-chữ số xác nhận mã PIN</string>
+    <string name="old_pin_8_digits">Cũ PIN 8-chữ số</string>
+    <string name="please_enter_old_8_digit_pin">Vui lòng nhập cũ pin 8 chữ số</string>
+
 </resources>

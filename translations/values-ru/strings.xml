@@ -231,5 +231,19 @@
     <string name="blocktrades_instructions_d">3. Отправить 1 TRADE.USDLABOR жетон с вашего счета Bitshares (с помощью веб-кошелька) на "blocktrades" счет и укажите в поле "memo" адрес электронной почты blocktrades аккаунта . Этот шаг связывает Вашу учетную запись Bitshares и учетную запись Blocktrades и доказывает, что у вас есть аккаунт Bitshares, так что Blocktrades может снять поручительство суммы временно от Вашей учетной записи Blocktrades.</string>
     <string name="blocktrades_instructions_e">4. Введите Blocktrades адрес электронной почты и пароль в полях выше.</string>
     <string name="blocktrades_instructions_f">> 5. Введите максимальный размер транзакции при использовании средств на счету Blocktrades. Сумма, которую вы вводите здесь не может превышать сумму TRADE.USDLABOR жетонов которые вы приобрели. Больше информации:</string>
+    <string name="backup">BACKUP .bin</string>
+    <string name="secure_pin">EDIT PIN</string>
+    <string name="old_pin">Старый 6-цифры PIN-кода</string>
+    <string name="txt_edit">СПАСТИ</string>
+    <string name="please_enter_old_6_digit_pin">Пожалуйста, введите старый 6-значный PIN-код</string>
+    <string name="incorrect_old_pin">Некорректное старый PIN-код</string>
+    <string name="pin_changed_successfully">PIN-код успешно изменен</string>
 
+    <string name="please_enter_8_digit_pin">Пожалуйста, введите 8-значный PIN-код</string>
+    <string name="please_enter_8_digit_pin_confirm">Пожалуйста, введите 8-значный пин-подтверждение</string>
+    <string name="txt_8_digits_pin">8-цифр PIN</string>
+<string name="txt_8_digits_pin_confirm">PIN-код подтверждения 8-цифр</string>
+
+    <string name="old_pin_8_digits">Старый 8-цифры PIN</string>
+    <string name="please_enter_old_8_digit_pin">Пожалуйста, введите старый 8-значный PIN-код</string>
 </resources>

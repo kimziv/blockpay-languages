@@ -226,4 +226,20 @@
     <string name="blocktrades_instructions_e">4. Masukkan email dan password Blocktrades Anda ke dalam bidang di atas.</string>
     <string name="blocktrades_instructions_f">> 5. Masukkan ukuran transaksi max saat menggunakan akun Blocktrades didanai Anda. Jumlah yang Anda masukkan di sini tidak bisa melebihi jumlah token TRADE.USDLABOR Anda beli. Info lebih lanjut:</string>
 
+    <string name="backup">bin CADANGAN</string>
+    <string name="secure_pin">PIN EDIT</string>
+    <string name="old_pin">Old PIN 6-digit</string>
+    <string name="txt_edit">MENYIMPAN</string>
+    <string name="please_enter_old_6_digit_pin">Cukup masukkan tua pin 6-digit</string>
+    <string name="incorrect_old_pin">PIN lama yang salah</string>
+    <string name="pin_changed_successfully">PIN berhasil diubah</string>
+
+    <string name="please_enter_8_digit_pin">Harap 8-digit pin</string>
+    <string name="please_enter_8_digit_pin_confirm">Harap 8-digit konfirmasi pin</string>
+    <string name="txt_8_digits_pin">8-digit PIN</string>
+<string name="txt_8_digits_pin_confirm">8-digit PIN confirm</string>
+
+    <string name="old_pin_8_digits">Old PIN 8-digit</string>
+    <string name="please_enter_old_8_digit_pin">Cukup masukkan tua pin 8-digit</string>
+
 </resources>

@@ -232,4 +232,20 @@
     <string name="blocktrades_instructions_e">4.上記のフィールドにあなたのBlocktradesのメールアドレスとパスワードを入力します。</string>
     <string name="blocktrades_instructions_f">あなたの資金を供給Blocktradesアカウントを使用している場合> 5.最大トランザクション・サイズを入力します。ここで入力した金額は、あなたが購入したTRADE.USDLABORトークンの量を超えることはできません。さらに詳しい情報：</string>
 
+    <string name="backup">BACKUPました.bin</string>
+    <string name="secure_pin">EDIT PIN</string>
+    <string name="old_pin">旧6桁のPIN</string>
+    <string name="txt_edit">セーブ</string>
+    <string name="please_enter_old_6_digit_pin">生後6桁のPINを入力してください。</string>
+    <string name="incorrect_old_pin">誤った古いPIN</string>
+    <string name="pin_changed_successfully">PINが正常に変更しました</string>
+
+    <string name="please_enter_8_digit_pin">8桁のPINを入力してください。</string>
+    <string name="please_enter_8_digit_pin_confirm">8桁のPIN確認を入力してください</string>
+    <string name="txt_8_digits_pin">8桁のPIN</string>
+<string name="txt_8_digits_pin_confirm">8桁のPIN確認</string>
+
+    <string name="old_pin_8_digits">旧8桁のPIN</string>
+    <string name="please_enter_old_8_digit_pin">古い8桁のPINを入力してください。</string>
+
 </resources>

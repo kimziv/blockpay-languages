@@ -231,4 +231,20 @@
     <string name="blocktrades_instructions_e">4. উপরে মাঠে আপনার Blocktrades ইমেল ও পাসওয়ার্ড লিখুন.</string>
     <string name="blocktrades_instructions_f">> 5. যখন আপনার নিহিত Blocktrades অ্যাকাউন্ট ব্যবহার করে সর্বোচ্চ লেনদেন আকার লিখুন. পরিমাণ যে আপনি এখানে লিখতে TRADE.USDLABOR টোকেন পরিমাণ আপনি কিনেছেন অতিক্রম করতে পারে না. আরো তথ্য:</string>
 
+    <string name="backup">ব্যাকআপ .bin</string>
+    <string name="secure_pin">EDIT থেকে পিন</string>
+    <string name="old_pin">প্রাচীন 6-ডিজিটের পিন</string>
+    <string name="txt_edit">সংরক্ষণ করুন</string>
+    <string name="please_enter_old_6_digit_pin">পুরাতন 6 অঙ্ক পিন প্রবেশ করুন</string>
+    <string name="incorrect_old_pin">ভুল পুরানো পিন</string>
+    <string name="pin_changed_successfully">PIN সফলভাবে পরিবর্তন</string>
+
+    <string name="please_enter_8_digit_pin">8 অঙ্ক পিন প্রবেশ করুন</string>
+    <string name="please_enter_8_digit_pin_confirm">8 অঙ্ক পিন নিশ্চিতকরণ প্রবেশ করুন</string>
+    <string name="txt_8_digits_pin">8-ডিজিটের পিন</string>
+    <string name="txt_8_digits_pin_confirm">8-ডিজিটের PIN নিশ্চিত</string>
+
+
+    <string name="old_pin_8_digits">প্রাচীন 8 ডিজিটের পিন</string>
+    <string name="please_enter_old_8_digit_pin">পুরাতন 8 অঙ্ক পিন প্রবেশ করুন</string>
 </resources>

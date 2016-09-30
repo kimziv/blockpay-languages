@@ -229,4 +229,19 @@
     <string name="blocktrades_instructions_e">4. Geben Sie Ihre E-Mail-Blocktrades und das Passwort in die Felder oben.</string>
     <string name="blocktrades_instructions_f">Enter> 5. die maximale Transaktionsgröße, wenn Sie finanziert Blocktrades Konto. Der Betrag, den Sie hier eingeben, kann nicht die Menge an TRADE.USDLABOR Token überschreiten Sie erworben haben. Mehr Info:</string>
 
+    <string name="backup">BACKUP .bin</string>
+    <string name="secure_pin">EDIT PIN</string>
+    <string name="old_pin">Alt 6-stellig PIN</string>
+    <string name="txt_edit">SPAREN</string>
+    <string name="please_enter_old_6_digit_pin">Bitte geben Sie alte 6-stelligen PIN</string>
+    <string name="incorrect_old_pin">Falsche alte PIN</string>
+    <string name="pin_changed_successfully">PIN erfolgreich geändert</string>
+
+    <string name="please_enter_8_digit_pin">Bitte geben Sie 8-stelligen PIN</string>
+    <string name="please_enter_8_digit_pin_confirm">Bitte geben Sie 8-stelligen PIN-Bestätigung</string>
+    <string name="txt_8_digits_pin">8-stellige PIN</string>
+<string name="txt_8_digits_pin_confirm">8-stellige PIN bestätigen</string>
+
+    <string name="old_pin_8_digits">Alt 8-stellige PIN</string>
+    <string name="please_enter_old_8_digit_pin">Bitte geben Sie alte 8-stelligen PIN</string>
 </resources>

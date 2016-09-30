@@ -228,5 +228,19 @@
     <string name="blocktrades_instructions_d">3. Pošalji 1 TRADE.USDLABOR token iz svog Bitshares računa (pomoću web novčanika) u "blocktrades" račun i polje za zabilješku u vaš Blocktrades račun e-pošte. Ovaj korak povezuje vaš Bitshares račun na vaš Blocktrades račun i dokazuje da ste vlasnik Bitshares računa, tako da Blocktrades može povući privremeno iz vašeg Blocktrades računa.</string>
     <string name="blocktrades_instructions_e">4. Unesite Blocktrades e-mail i lozinku u polja iznad.</string>
     <string name="blocktrades_instructions_f">> 5. Unesite maksimalnu veličinu transakcije prilikom korištenja financiranja Blocktrades računa. Iznos koji unosite ovdje ne može prelaziti iznos od TRADE.USDLABOR tokena koji ste kupili. Više informacija:</string>
+    <string name="backup">BACKUP .bin</string>
+    <string name="secure_pin">EDIT PIN</string>
+    <string name="old_pin">Stari 6 znamenki PIN</string>
+    <string name="txt_edit">UŠTEDJETI</string>
+    <string name="please_enter_old_6_digit_pin">Unesite staru 6 znamenki</string>
+    <string name="incorrect_old_pin">Neispravno stari PIN</string>
+    <string name="pin_changed_successfully">PIN uspješno promijenjen</string>
 
+    <string name="please_enter_8_digit_pin">Unesite 8 znamenki</string>
+    <string name="please_enter_8_digit_pin_confirm">Unesite 8-znamenkasti potvrdu pin</string>
+    <string name="txt_8_digits_pin">PIN 8 znamenaka</string>
+<string name="txt_8_digits_pin_confirm">8 znamenki PIN potvrđuju</string>
+
+    <string name="old_pin_8_digits">Stara 8 znamenki PIN</string>
+    <string name="please_enter_old_8_digit_pin">Unesite stari 8-znamenkasti pin</string>
 </resources>

@@ -231,4 +231,20 @@
     <string name="blocktrades_instructions_e">4. Zadajte svoj e-mail a heslo Blocktrades do polí hore.</string>
     <string name="blocktrades_instructions_f">> 5. Pri používaní vášho účtu financovaný Blocktrades Zadajte maximálnu veľkosť transakcií. Suma, ktorú tu zadáte, nemôžu prekročiť čiastku TRADE.USDLABOR tokenov ste zakúpili. Viac informácií:</string>
 
+    <string name="backup">BACKUP bin</string>
+    <string name="secure_pin">EDIT PIN</string>
+    <string name="old_pin">Old 6-číslica PIN</string>
+    <string name="txt_edit">SAVE</string>
+    <string name="please_enter_old_6_digit_pin">Prosím, zadajte staré 6-miestny kód PIN</string>
+    <string name="incorrect_old_pin">Nesprávny starý PIN</string>
+    <string name="pin_changed_successfully">PIN bol úspešne zmenený</string>
+
+    <string name="please_enter_8_digit_pin">Prosím, zadajte 8 miestny PIN</string>
+    <string name="please_enter_8_digit_pin_confirm">Prosím, zadajte 8 miestny potvrdenie pin</string>
+    <string name="txt_8_digits_pin">8-číslic PIN</string>
+<string name="txt_8_digits_pin_confirm">8-číslic PIN confirm</string>
+
+    <string name="old_pin_8_digits">Staré 8-číslic PIN</string>
+    <string name="please_enter_old_8_digit_pin">Prosím, zadajte staré 8-miestny kód PIN</string>
+
 </resources>

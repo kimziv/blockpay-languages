@@ -228,4 +228,20 @@
     <string name="blocktrades_instructions_e">4. उपर्युक्त क्षेत्रों में अपने Blocktrades ईमेल और पासवर्ड दर्ज करें।</string>
     <string name="blocktrades_instructions_f">> 5. जब आपके वित्त पोषित Blocktrades खाते का उपयोग कर अधिकतम लेनदेन आकार दर्ज करें। राशि है कि आप यहाँ दर्ज TRADE.USDLABOR टोकन की राशि तुम खरीदा है से अधिक नहीं हो सकता है। और जानकारी:</string>
 
+    <string name="backup">बैकअप बिन</string>
+    <string name="secure_pin">संपादित पिन</string>
+    <string name="old_pin">वर्ष 6 अंक पिन</string>
+    <string name="txt_edit">बचाना</string>
+    <string name="please_enter_old_6_digit_pin">वर्ष 6 अंकों का पिन दर्ज करें</string>
+    <string name="incorrect_old_pin">गलत पुराना पिन</string>
+    <string name="pin_changed_successfully">पिन सफलतापूर्वक बदल</string>
+
+    <string name="please_enter_8_digit_pin">8 अंकों का पिन दर्ज करें</string>
+    <string name="please_enter_8_digit_pin_confirm">8 अंकों का पिन पुष्टि दर्ज करें</string>
+    <string name="txt_8_digits_pin">8 अंक पिन</string>
+<string name="txt_8_digits_pin_confirm">8 अंक पिन की पुष्टि</string>
+
+    <string name="old_pin_8_digits">वर्ष 8 अंक पिन</string>
+    <string name="please_enter_old_8_digit_pin">वर्ष 8 अंकों का पिन दर्ज करें</string>
+
 </resources>

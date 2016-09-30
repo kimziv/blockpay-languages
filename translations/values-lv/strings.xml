@@ -233,4 +233,21 @@
     <string name="blocktrades_instructions_e">4. Ievadiet savu e-pasta adresi Blocktrades un paroli virs laukiem.</string>
     <string name="blocktrades_instructions_f">> 5. Ievadiet max darījuma lielumu, kad, izmantojot savu finansēts Blocktrades kontu. Summa, ko jūs šeit nedrīkst pārsniegt summu, TRADE.USDLABOR žetoniem esat iegādājies. Vairāk informācijas:</string>
 
+
+    <string name="backup">BACKUP bin</string>
+    <string name="secure_pin">EDIT PIN</string>
+    <string name="old_pin">Old 6-ciparu PIN</string>
+    <string name="txt_edit">SAVE</string>
+    <string name="please_enter_old_6_digit_pin">Ievadiet veco 6-ciparu PIN</string>
+    <string name="incorrect_old_pin">Nepareizs veco PIN</string>
+    <string name="pin_changed_successfully">PIN veiksmīgi mainīts</string>
+
+    <string name="please_enter_8_digit_pin">Ievadiet 8 ciparu PIN</string>
+    <string name="please_enter_8_digit_pin_confirm">Ievadiet 8-ciparu PIN apstiprinājums</string>
+    <string name="txt_8_digits_pin">8-ciparu PIN</string>
+<string name="txt_8_digits_pin_confirm">8-ciparu PIN Apstiprināt</string>
+
+    <string name="old_pin_8_digits">Old 8-ciparu PIN</string>
+    <string name="please_enter_old_8_digit_pin">Ievadiet veco 8-ciparu PIN</string>
+
 </resources>

@@ -227,4 +227,19 @@
     <string name="blocktrades_instructions_e">4.輸入Blocktrades電子郵件和密碼上述領域。</string>
     <string name="blocktrades_instructions_f">使用您的資金Blocktrades帳戶時> 5.輸入最大的交易規模。您在此處輸入的金額不能超過您所購買的TRADE.USDLABOR令牌數量。更多信息：</string>
 
+    <string name="backup">BACKUP的.bin</string>
+    <string name="secure_pin">編輯PIN</string>
+    <string name="old_pin">老6位數的PIN</string>
+    <string name="txt_edit">保存</string>
+    <string name="please_enter_old_6_digit_pin">請輸入老6位數的PIN</string>
+    <string name="incorrect_old_pin">不正確舊的PIN</string>
+    <string name="pin_changed_successfully">PIN已成功改變</string>
+
+    <string name="please_enter_8_digit_pin">請輸入8位PIN碼</string>
+    <string name="please_enter_8_digit_pin_confirm">請輸入8位PIN碼確認</string>
+    <string name="txt_8_digits_pin">8位數的PIN</string>
+<string name="txt_8_digits_pin_confirm">8位數的PIN確認</string>
+
+    <string name="old_pin_8_digits">舊8位數的PIN</string>
+    <string name="please_enter_old_8_digit_pin">請輸入舊的8位PIN碼</string>
 </resources>

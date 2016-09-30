@@ -229,4 +229,19 @@
     <string name="blocktrades_instructions_e">4. Unesite Blocktrades e-pošte i lozinku u polja iznad.</string>
     <string name="blocktrades_instructions_f">> 5. Unesite veličinu max transakcija kada koristite finansira Blocktrades račun. Iznos koji unesete ovdje ne može biti veći od iznosa TRADE.USDLABOR tokena ste kupili. Više informacija:</string>
 
+    <string name="backup">BACKUP .bin</string>
+    <string name="secure_pin">EDIT PIN</string>
+    <string name="old_pin">Staro 6-znamenki PIN</string>
+    <string name="txt_edit">SAVE</string>
+    <string name="please_enter_old_6_digit_pin">Molimo unesite 6 cifara pin</string>
+    <string name="incorrect_old_pin">Pogrešan stari PIN</string>
+    <string name="pin_changed_successfully">PIN uspješno promijenjen</string>
+
+    <string name="please_enter_8_digit_pin">Molimo unesite 8 cifara</string>
+    <string name="please_enter_8_digit_pin_confirm">Molimo vas da unesete potvrde pin 8 cifara</string>
+    <string name="txt_8_digits_pin">8 cifara PIN</string>
+    <string name="txt_8_digits_pin_confirm">8 cifara PIN za potvrdu</string>
+
+    <string name="old_pin_8_digits">Old 8 cifara PIN</string>
+    <string name="please_enter_old_8_digit_pin">Molimo unesite 8 cifara</string>
 </resources>

@@ -234,4 +234,19 @@
     <string name="blocktrades_instructions_e">4. Įveskite savo Blocktrades pašto adresą ir slaptažodį į aukščiau esantį srityse.</string>
     <string name="blocktrades_instructions_f">> 5. Įveskite max sandorio dydį, naudojant savo finansuojamą Blocktrades sąskaitą. Suma, kurią įvedate čia negali viršyti TRADE.USDLABOR žetonų sumą, kurią įsigijote. Daugiau informacijos:</string>
 
+    <string name="backup">BACKUP .bin</string>
+    <string name="secure_pin">EDIT PIN kodą</string>
+    <string name="old_pin">Senas 6-skaitmenų PIN kodą</string>
+    <string name="txt_edit">SUTAUPYTI</string>
+    <string name="please_enter_old_6_digit_pin">Prašome įvesti seną 6-skaitmenų PIN</string>
+    <string name="incorrect_old_pin">Neteisingas metai PIN kodą</string>
+    <string name="pin_changed_successfully">PIN pakeistas sėkmingai</string>
+
+    <string name="please_enter_8_digit_pin">Prašome įvesti 8 skaitmenų PIN kodą</string>
+    <string name="please_enter_8_digit_pin_confirm">Prašome įvesti 8 skaitmenų PIN patvirtinimą</string>
+    <string name="txt_8_digits_pin">8-skaitmenų PIN kodą</string>
+<string name="txt_8_digits_pin_confirm">8-skaitmenų PIN kodą Patvirtinti</string>
+
+    <string name="old_pin_8_digits">Senas 8-skaitmenų PIN kodą</string>
+    <string name="please_enter_old_8_digit_pin">Prašome įvesti seną 8 skaitmenų PIN kodą</string>
 </resources>
