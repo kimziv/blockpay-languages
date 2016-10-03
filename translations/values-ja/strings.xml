@@ -51,13 +51,13 @@
     <string name="txt_please_select_smartcoin">Smartcoinを選択してください</string>
     <string name="license">ライセンス</string>
     <string name="exception_encountered_msg">あなたの設定を修正して戻ってゲットしてください</string>
-    <string name="applicable_reward_points">「適用リワードポイント</string>
-    <string name="dismiss">「却下</string>
-    <string name="accept">「同意します</string>
-    <string name="cancel">"キャンセル</string>
-    <string name="select">」を選択します</string>
-    <string name="are_you_sure">"本気ですか？</string>
-    <string name="Yes">"はい</string>
+    <string name="applicable_reward_points">適用リワードポイント</string>
+    <string name="dismiss">却下</string>
+    <string name="accept">同意します</string>
+    <string name="cancel">キャンセル</string>
+    <string name="select">を選択します</string>
+    <string name="are_you_sure">本気ですか？</string>
+    <string name="Yes">はい</string>
     <string name="no">いいえ</string>
     <string name="gravatar">グラバター</string>
     <string name="dates_and_time_as_old">Le date e lora come</string>
@@ -231,5 +231,21 @@
     <string name="blocktrades_instructions_d">3.メールアドレスをアカウントBlocktradesに「blocktrades」アカウントとメモフィールドタイプで（ウェブ財布を使用して）Bitsharesアカウントから1 TRADE.USDLABORトークンを送信します。このステップは、あなたのBitsharesアカウントとBlocktradesがアカウントBlocktradesから一時的に保証金額を引き出すことができるようにあなたがBitsharesアカウントを所有していることを証明しているあなたのBlocktradesにアカウントにリンクします。</string>
     <string name="blocktrades_instructions_e">4.上記のフィールドにあなたのBlocktradesのメールアドレスとパスワードを入力します。</string>
     <string name="blocktrades_instructions_f">あなたの資金を供給Blocktradesアカウントを使用している場合> 5.最大トランザクション・サイズを入力します。ここで入力した金額は、あなたが購入したTRADE.USDLABORトークンの量を超えることはできません。さらに詳しい情報：</string>
+
+    <string name="backup">BACKUPました.bin</string>
+    <string name="secure_pin">EDIT PIN</string>
+    <string name="old_pin">旧6桁のPIN</string>
+    <string name="txt_edit">セーブ</string>
+    <string name="please_enter_old_6_digit_pin">生後6桁のPINを入力してください。</string>
+    <string name="incorrect_old_pin">誤った古いPIN</string>
+    <string name="pin_changed_successfully">PINが正常に変更しました</string>
+
+    <string name="please_enter_8_digit_pin">8桁のPINを入力してください。</string>
+    <string name="please_enter_8_digit_pin_confirm">8桁のPIN確認を入力してください</string>
+    <string name="txt_8_digits_pin">8桁のPIN</string>
+<string name="txt_8_digits_pin_confirm">8桁のPIN確認</string>
+
+    <string name="old_pin_8_digits">旧8桁のPIN</string>
+    <string name="please_enter_old_8_digit_pin">古い8桁のPINを入力してください。</string>
 
 </resources>

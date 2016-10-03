@@ -51,13 +51,13 @@
     <string name="txt_please_select_smartcoin">Sila Pilih Smartcoin</string>
     <string name="license">lesen</string>
     <string name="exception_encountered_msg">Sila menetapkan tetapan anda dan kembali</string>
-    <string name="applicable_reward_points">"Mata Ganjaran Terpakai</string>
-    <string name="dismiss">"Abaikan</string>
-    <string name="accept">"Terima</string>
-    <string name="cancel">"Batal</string>
-    <string name="select">"Pilih</string>
+    <string name="applicable_reward_points">Mata Ganjaran Terpakai</string>
+    <string name="dismiss">Abaikan</string>
+    <string name="accept">Terima</string>
+    <string name="cancel">Batal</string>
+    <string name="select">Pilih</string>
     <string name="are_you_sure">"Adakah anda pasti?</string>
-    <string name="Yes">"Ya</string>
+    <string name="Yes">Ya</string>
     <string name="no">Tiada</string>
     <string name="gravatar">Gravatar</string>
     <string name="dates_and_time_as_old">Datos ir laiko, kaip</string>
@@ -233,4 +233,18 @@
     <string name="blocktrades_instructions_e">4. Masukkan e-mel dan kata laluan Blocktrades anda ke dalam bidang tersebut.</string>
     <string name="blocktrades_instructions_f">> 5. Masukkan saiz transaksi max apabila menggunakan akaun Blocktrades anda dibiayai. Jumlah yang anda masukkan di sini tidak boleh melebihi jumlah token TRADE.USDLABOR anda beli. Maklumat lanjut:</string>
 
+  <string name="backup">.bin BACKUP</string>
+    <string name="secure_pin">PIN EDIT</string>
+    <string name="old_pin">Old PIN 6 angka</string>
+    <string name="txt_edit">JIMAT</string>
+    <string name="please_enter_old_6_digit_pin">Sila masukkan lama pin 6-digit</string>
+    <string name="incorrect_old_pin">PIN lama yang tidak betul</string>
+    <string name="pin_changed_successfully">PIN berjaya ditukar</string>
+
+    <string name="please_enter_8_digit_pin">Sila masukkan 8 digit pin</string>
+    <string name="please_enter_8_digit_pin_confirm">Sila masukkan 8 digit pengesahan pin</string>
+    <string name="txt_8_digits_pin">PIN 8-digit</string>
+<string name="txt_8_digits_pin_confirm">8-digit PIN confirm</string>
+    <string name="old_pin_8_digits">Old PIN 8-digit</string>
+    <string name="please_enter_old_8_digit_pin">Sila masukkan pin 8 digit yang lalu</string>
 </resources>

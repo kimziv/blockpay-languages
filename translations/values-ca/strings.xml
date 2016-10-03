@@ -54,13 +54,13 @@
 
     <string name="license">llicència</string>
     <string name="exception_encountered_msg">Si us plau, corregeixi els paràmetres i tornar</string>
-    <string name="applicable_reward_points">"Punts de recompensa aplicables</string>
-    <string name="dismiss">"Descarta</string>
-    <string name="accept">"D\'acord</string>
-    <string name="cancel">"Cancel · lar</string>
-    <string name="select">"Seleccioneu</string>
-    <string name="are_you_sure">"Estàs segur?</string>
-    <string name="Yes">"Sí</string>
+    <string name="applicable_reward_points">Punts de recompensa aplicables</string>
+    <string name="dismiss">Descarta</string>
+    <string name="accept">D\'acord</string>
+    <string name="cancel">Cancel · lar</string>
+    <string name="select">Seleccioneu</string>
+    <string name="are_you_sure">Estàs segur?</string>
+    <string name="Yes">Sí</string>
     <string name="no">No</string>
     <string name="gravatar">gravatar</string>
     <string name="dates_and_time_as_old">Дати и време,</string>
@@ -236,4 +236,19 @@
     <string name="blocktrades_instructions_e">4. Introduïu el vostre correu electrònic Blocktrades i contrasenya en els camps anteriors.</string>
     <string name="blocktrades_instructions_f">> 5. Introduïu la mida màxima de transaccions utilitzant el seu compte Blocktrades finançat. La quantitat que s\'introdueix aquí no pot excedir la quantitat de fitxes TRADE.USDLABOR que ha adquirit. Més informació:</string>
 
+  <string name="backup">.bin BACKUP</string>
+    <string name="secure_pin">EDITAR PIN</string>
+    <string name="old_pin">Antic PIN de 6 dígits</string>
+    <string name="txt_edit">GUARDAR</string>
+    <string name="please_enter_old_6_digit_pin">Si us plau, introdueixi passador d\'edat de 6 dígits</string>
+    <string name="incorrect_old_pin">PIN anterior incorrecte</string>
+    <string name="pin_changed_successfully">PIN canviat correctament</string>
+
+    <string name="please_enter_8_digit_pin">Si us plau, introdueixi 8 dígits pin</string>
+    <string name="please_enter_8_digit_pin_confirm">Si us plau, introdueixi la confirmació pin 8 dígits</string>
+    <string name="txt_8_digits_pin">PIN de 8 dígits</string>
+<string name="txt_8_digits_pin_confirm">8-dígits PIN confirmar</string>
+
+    <string name="old_pin_8_digits">Antic PIN de 8 dígits</string>
+    <string name="please_enter_old_8_digit_pin">Si us plau, introdueixi passador d\'edat de 8 dígits</string>
 </resources>

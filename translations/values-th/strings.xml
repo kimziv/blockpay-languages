@@ -52,13 +52,13 @@
     <string name="txt_please_select_smartcoin">กรุณาเลือก Smartcoin</string>
     <string name="license">การอนุญาต</string>
     <string name="exception_encountered_msg">โปรดแก้ไขการตั้งค่าและได้รับกลับมา</string>
-    <string name="applicable_reward_points">"คะแนนสะสมสามารถใช้งานได้</string>
-    <string name="dismiss">"ยกเลิก</string>
-    <string name="accept">"ยอมรับ</string>
-    <string name="cancel">"ยกเลิก</string>
-    <string name="select">"เลือก</string>
-    <string name="are_you_sure">"คุณแน่ใจไหม?</string>
-    <string name="Yes">"ใช่</string>
+    <string name="applicable_reward_points">คะแนนสะสมสามารถใช้งานได้</string>
+    <string name="dismiss">ยกเลิก</string>
+    <string name="accept">ยอมรับ</string>
+    <string name="cancel">ยกเลิก</string>
+    <string name="select">เลือก</string>
+    <string name="are_you_sure">คุณแน่ใจไหม?</string>
+    <string name="Yes">ใช่</string>
     <string name="no">ไม่</string>
     <string name="gravatar">Gravatar</string>
     <string name="dates_and_time_as_old">Datum och tid</string>
@@ -230,4 +230,19 @@
     <string name="blocktrades_instructions_e">4. ป้อนอีเมล Blocktrades และรหัสผ่านของคุณในช่องดังกล่าวข้างต้น</string>
     <string name="blocktrades_instructions_f">> 5. ป้อนขนาดรายการสูงสุดเมื่อใช้บัญชีของคุณได้รับการสนับสนุน Blocktrades จำนวนเงินที่คุณป้อนที่นี่จะต้องไม่เกินจำนวนเงินของสัญญาณ TRADE.USDLABOR ที่คุณซื้อ ข้อมูลเพิ่มเติม:</string>
 
+    <string name="backup">ถังขยะสำรอง</string>
+    <string name="secure_pin">PIN แก้ไข</string>
+    <string name="old_pin">PIN เก่า 6 หลัก</string>
+    <string name="txt_edit">ประหยัด</string>
+    <string name="please_enter_old_6_digit_pin">กรุณากรอก PIN เก่า 6 หลัก</string>
+    <string name="incorrect_old_pin">PIN เก่าที่ไม่ถูกต้อง</string>
+    <string name="pin_changed_successfully">เปลี่ยน PIN ประสบความสำเร็จ</string>
+
+    <string name="please_enter_8_digit_pin">กรุณากรอก PIN 8 หลัก</string>
+    <string name="please_enter_8_digit_pin_confirm">กรุณากรอกยืนยันขา 8 หลัก</string>
+    <string name="txt_8_digits_pin">PIN 8 หลัก</string>
+<string name="txt_8_digits_pin_confirm">8 ตัวเลขยืนยัน PIN</string>
+
+    <string name="old_pin_8_digits">PIN เก่า 8 หลัก</string>
+    <string name="please_enter_old_8_digit_pin">กรุณากรอก PIN เก่า 8 หลัก</string>
 </resources>

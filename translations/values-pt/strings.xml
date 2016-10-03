@@ -52,13 +52,13 @@
 
     <string name="license">Licença</string>
     <string name="exception_encountered_msg">Corrija as suas definições e voltar</string>
-    <string name="applicable_reward_points">"Pontos de Recompensa Aplicáveis</string>
-    <string name="dismiss">"Dispensar</string>
-    <string name="accept">"Aceitar</string>
-    <string name="cancel">"Cancelar</string>
-    <string name="select">"Selecionar</string>
-    <string name="are_you_sure">"Você tem certeza?</string>
-    <string name="Yes">"Sim</string>
+    <string name="applicable_reward_points">Pontos de Recompensa Aplicáveis</string>
+    <string name="dismiss">Dispensar</string>
+    <string name="accept">Aceitar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="select">Selecionar</string>
+    <string name="are_you_sure">Você tem certeza?</string>
+    <string name="Yes">Sim</string>
     <string name="no">Não</string>
     <string name="gravatar">Gravatar</string>
     <string name="dates_and_time_as_old">Datas e tempo como previamente</string>
@@ -234,5 +234,20 @@
     <string name="blocktrades_instructions_d">3. Enviar uma TRADE.USDLABOR símbolo de sua conta Bitshares (usando a carteira web) para a conta de "blocktrades" e no tipo de campo memorando na sua conta de e-mail do Blocktrades. Esta etapa liga a sua conta do Bitshares com a sua conta Blocktrades e prova que você possui conta na Bitshares para que Blocktrades possa retirar montantes de garantia temporária de sua conta Blocktrades.</string>
     <string name="blocktrades_instructions_e">4. Digite seu e-mail Blocktrades e senha nos campos acima.</string>
     <string name="blocktrades_instructions_f">> 5. Digite o tamanho da transação máxima ao usar sua conta Blocktrades financiado. A quantidade que você aqui colocar não pode exceder a quantidade de fichas TRADE.USDLABOR que você comprou. Mais informações:</string>
+    <string name="backup">.bin BACKUP</string>
+    <string name="secure_pin">EDIT PIN</string>
+    <string name="old_pin">PIN de 6 dígitos de idade</string>
+    <string name="txt_edit">SALVAR</string>
+    <string name="please_enter_old_6_digit_pin">Por favor, indique velho pino 6 dígitos</string>
+    <string name="incorrect_old_pin">Incorreto PIN antigo</string>
+    <string name="pin_changed_successfully">PIN alterado com sucesso</string>
 
+
+    <string name="please_enter_8_digit_pin">Por favor, indique 8 dígitos pin</string>
+    <string name="please_enter_8_digit_pin_confirm">Por favor, indique a confirmação pino 8 dígitos</string>
+    <string name="txt_8_digits_pin">PIN de 8 dígitos</string>
+<string name="txt_8_digits_pin_confirm">8 dígitos confirmar PIN</string>
+
+    <string name="old_pin_8_digits">PIN de 8 dígitos de idade</string>
+    <string name="please_enter_old_8_digit_pin">Por favor, indique velho pino 8 dígitos</string>
 </resources>

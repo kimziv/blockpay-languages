@@ -50,13 +50,13 @@
     <string name="txt_please_select_smartcoin">Vennligst velg Smartcoin</string>
     <string name="license">Tillatelse</string>
     <string name="exception_encountered_msg">Rett opp innstillingene og få tilbake</string>
-    <string name="applicable_reward_points">"Gjeldende Bonuspoeng</string>
-    <string name="dismiss">"Avskjedige</string>
-    <string name="accept">"Aksepterer</string>
-    <string name="cancel">"Kansellere</string>
-    <string name="select">"Velge</string>
-    <string name="are_you_sure">"Er du sikker?</string>
-    <string name="Yes">"Ja</string>
+    <string name="applicable_reward_points">Gjeldende Bonuspoeng</string>
+    <string name="dismiss">Avskjedige</string>
+    <string name="accept">Aksepterer</string>
+    <string name="cancel">Kansellere</string>
+    <string name="select">Velge</string>
+    <string name="are_you_sure">Er du sikker?</string>
+    <string name="Yes">Ja</string>
     <string name="no">Nei</string>
     <string name="gravatar">Gravatar</string>
     <string name="dates_and_time_as_old">Tarikh dan Masa Sebagai</string>
@@ -233,4 +233,19 @@
     <string name="blocktrades_instructions_e">4. Skriv inn Blocktrades e-postadresse og passord i feltene over.</string>
     <string name="blocktrades_instructions_f">> 5. Skriv inn maks transaksjonsstørrelse når du bruker finansiert Blocktrades konto. Beløpet som du skriver her, kan ikke overstige TRADE.USDLABOR tokens du har kjøpt. Mer informasjon:</string>
 
+   <string name="backup">BACKUP .bin</string>
+    <string name="secure_pin">EDIT PIN</string>
+    <string name="old_pin">Gammel 6-siffer PIN</string>
+    <string name="txt_edit">LAGRE</string>
+    <string name="please_enter_old_6_digit_pin">Angi gammel 6-sifret pin</string>
+    <string name="incorrect_old_pin">Feil gamle PIN-koden</string>
+    <string name="pin_changed_successfully">PIN er endret</string>
+
+    <string name="please_enter_8_digit_pin">Fyll inn 8-sifret pin</string>
+    <string name="please_enter_8_digit_pin_confirm">Fyll inn 8-sifret pin bekreftelse</string>
+    <string name="txt_8_digits_pin">8-siffer PIN</string>
+<string name="txt_8_digits_pin_confirm">8-siffer PIN confirm</string>
+
+    <string name="old_pin_8_digits">Old 8-siffer PIN</string>
+    <string name="please_enter_old_8_digit_pin">Fyll inn gamle 8-sifret pin</string>
 </resources>

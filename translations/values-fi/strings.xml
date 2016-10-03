@@ -46,13 +46,13 @@
 
     <string name="license">lisenssi</string>
     <string name="exception_encountered_msg">Korjaa asetukset ja saada takaisin</string>
-    <string name="applicable_reward_points">"Sovellettavia Reward Points</string>
-    <string name="dismiss">"Hylkää</string>
-    <string name="accept">"Hyväksyä</string>
-    <string name="cancel">"Peruuttaa</string>
-    <string name="select">"Valitse</string>
-    <string name="are_you_sure">"Oletko varma?</string>
-    <string name="Yes">"Kyllä</string>
+    <string name="applicable_reward_points">Sovellettavia Reward Points</string>
+    <string name="dismiss">Hylkää</string>
+    <string name="accept">Hyväksyä</string>
+    <string name="cancel">Peruuttaa</string>
+    <string name="select">Valitse</string>
+    <string name="are_you_sure">Oletko varma?</string>
+    <string name="Yes">Kyllä</string>
     <string name="no">Ei</string>
     <string name="gravatar">Gravatar</string>
     <string name="dates_and_time_as_old">تاریخ و به عنوان زمان</string>
@@ -229,5 +229,21 @@
     <string name="blocktrades_instructions_d">3. Lähetä 1 TRADE.USDLABOR token omalta Bitshares tilin (käyttäen nettilompakko) asentoon "blocktrades" tilin ja memo kirjoita Blocktrades tilin sähköpostiosoitteeseen. Tämä vaihe linkittää Bitshares tilisi Blocktrades tilin ja todistaa, että omistat Bitshares tilin jotta Blocktrades voi vetäytyä vakuussopimuksen määriä väliaikaisesti irti Blocktrades tilin.</string>
     <string name="blocktrades_instructions_e">4. Anna Blocktrades sähköpostiosoite ja salasana kenttiin yllä.</string>
     <string name="blocktrades_instructions_f">> 5. Anna max Kaupan kokoa, kun käytät rahoitetaan Blocktrades tilin. Määrä että annat täällä ei voi ylittää määrää TRADE.USDLABOR rahakkeita olet ostanut. Lisätietoja:</string>
+
+  <string name="backup">BACKUP Bin</string>
+    <string name="secure_pin">EDIT PIN</string>
+    <string name="old_pin">Vanha 6-numeroa PIN</string>
+    <string name="txt_edit">TALLENTAA</string>
+    <string name="please_enter_old_6_digit_pin">Anna vanha 6-numeroinen pin</string>
+    <string name="incorrect_old_pin">Väärä vanha PIN</string>
+    <string name="pin_changed_successfully">PIN-koodin vaihtaminen onnistui</string>
+
+    <string name="please_enter_8_digit_pin">Anna 8-numeroinen pin</string>
+    <string name="please_enter_8_digit_pin_confirm">Anna 8-numeroinen PIN vahvistus</string>
+    <string name="txt_8_digits_pin">8-numeroa PIN</string>
+<string name="txt_8_digits_pin_confirm">8-numeroa PIN confirm</string>
+
+    <string name="old_pin_8_digits">Vanhat 8-numeroa PIN</string>
+    <string name="please_enter_old_8_digit_pin">Anna vanha 8-numeroinen pin</string>
 
 </resources>

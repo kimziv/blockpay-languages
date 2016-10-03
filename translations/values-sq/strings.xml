@@ -50,13 +50,13 @@
 
     <string name="license">Liçensë</string>
     <string name="exception_encountered_msg">Ju lutemi të rregulluar parametrat tuaj dhe të kthehet</string>
-    <string name="applicable_reward_points">"Pikat aplikueshme shpërblim</string>
-    <string name="dismiss">"Shkarkoj</string>
-    <string name="accept">"Prano</string>
-    <string name="cancel">"Anulo</string>
-    <string name="select">"Zgjidh</string>
-    <string name="are_you_sure">"A je i sigurt?</string>
-    <string name="Yes">"Po</string>
+    <string name="applicable_reward_points">Pikat aplikueshme shpërblim</string>
+    <string name="dismiss">Shkarkoj</string>
+    <string name="accept">Prano</string>
+    <string name="cancel">Anulo</string>
+    <string name="select">Zgjidh</string>
+    <string name="are_you_sure">A je i sigurt?</string>
+    <string name="Yes">Po</string>
     <string name="no">jo</string>
     <string name="gravatar">Gravatar</string>
     <string name="dates_and_time_as_old">Dates and Time As</string>
@@ -233,4 +233,20 @@
     <string name="blocktrades_instructions_e">4. Shkruani email tuaj Blocktrades dhe fjalëkalimin në fushat e mësipërme.</string>
     <string name="blocktrades_instructions_f">> 5. Shkruani madhësinë max transaksionit kur duke përdorur të financuar llogarinë tuaj Blocktrades. Shuma që ju të hyjë këtu nuk mund të tejkalojë shumën e argumentet TRADE.USDLABOR që keni blerë. Me shume informacion:</string>
 
+
+    <string name="backup">.bin bACKUP</string>
+    <string name="secure_pin">EDIT PIN</string>
+    <string name="old_pin">Old PIN 6-shifra</string>
+    <string name="txt_edit">SAVE</string>
+    <string name="please_enter_old_6_digit_pin">Ju lutemi shkruani vjetër pin 6-shifror</string>
+    <string name="incorrect_old_pin">PIN i gabuar vjetër</string>
+    <string name="pin_changed_successfully">PIN ndryshuar me sukses</string>
+
+    <string name="please_enter_8_digit_pin">Ju lutemi shkruani PIN me 8 shifra</string>
+    <string name="please_enter_8_digit_pin_confirm">Ju lutemi shkruani 8-shifror konfirmim pin</string>
+    <string name="txt_8_digits_pin">PIN 8-shifra</string>
+    <string name="txt_8_digits_pin_confirm">8-shifra PIN konfirmuar</string>
+
+    <string name="old_pin_8_digits">Old PIN 8-shifra</string>
+    <string name="please_enter_old_8_digit_pin">Ju lutemi shkruani vjetër pin 8-shifror</string>
 </resources>

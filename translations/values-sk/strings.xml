@@ -50,13 +50,13 @@
     <string name="txt_please_select_smartcoin">Prosím, vyberte Smartcoin</string>
     <string name="license">licencie</string>
     <string name="exception_encountered_msg">Opravte nastavenie a vrátiť sa späť</string>
-    <string name="applicable_reward_points">"Použiteľná bodov</string>
-    <string name="dismiss">"Zatvoriť</string>
-    <string name="accept">"Accept</string>
-    <string name="cancel">"Zrušiť</string>
-    <string name="select">"Vybrať</string>
-    <string name="are_you_sure">"Si si istý?</string>
-    <string name="Yes">"Áno</string>
+    <string name="applicable_reward_points">Použiteľná bodov</string>
+    <string name="dismiss">Zatvoriť</string>
+    <string name="accept">Accept</string>
+    <string name="cancel">Zrušiť</string>
+    <string name="select">Vybrať</string>
+    <string name="are_you_sure">Si si istý?</string>
+    <string name="Yes">Áno</string>
     <string name="no">nie</string>
     <string name="gravatar">Gravatar</string>
     <string name="dates_and_time_as_old">Датуми и времена</string>
@@ -230,5 +230,21 @@
     <string name="blocktrades_instructions_d">3. Odošlite 1 TRADE.USDLABOR žetón zo svojho Bitshares účtu (pomocou webového peňaženku) na "blocktrades" účet a v správe typu poľa v Blocktrades účtu e-mailovú adresu. Tento krok spája svoje Bitshares účet s účtom Blocktrades a dokazuje, že vlastníte Bitshares účet tak, aby Blocktrades môžu vyberať ručenia množstvo dočasne z účtu Blocktrades.</string>
     <string name="blocktrades_instructions_e">4. Zadajte svoj e-mail a heslo Blocktrades do polí hore.</string>
     <string name="blocktrades_instructions_f">> 5. Pri používaní vášho účtu financovaný Blocktrades Zadajte maximálnu veľkosť transakcií. Suma, ktorú tu zadáte, nemôžu prekročiť čiastku TRADE.USDLABOR tokenov ste zakúpili. Viac informácií:</string>
+
+    <string name="backup">BACKUP bin</string>
+    <string name="secure_pin">EDIT PIN</string>
+    <string name="old_pin">Old 6-číslica PIN</string>
+    <string name="txt_edit">SAVE</string>
+    <string name="please_enter_old_6_digit_pin">Prosím, zadajte staré 6-miestny kód PIN</string>
+    <string name="incorrect_old_pin">Nesprávny starý PIN</string>
+    <string name="pin_changed_successfully">PIN bol úspešne zmenený</string>
+
+    <string name="please_enter_8_digit_pin">Prosím, zadajte 8 miestny PIN</string>
+    <string name="please_enter_8_digit_pin_confirm">Prosím, zadajte 8 miestny potvrdenie pin</string>
+    <string name="txt_8_digits_pin">8-číslic PIN</string>
+<string name="txt_8_digits_pin_confirm">8-číslic PIN confirm</string>
+
+    <string name="old_pin_8_digits">Staré 8-číslic PIN</string>
+    <string name="please_enter_old_8_digit_pin">Prosím, zadajte staré 8-miestny kód PIN</string>
 
 </resources>

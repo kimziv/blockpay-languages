@@ -52,13 +52,13 @@
     <string name="txt_please_select_smartcoin">Välj Smartcoin</string>
     <string name="license">Licens</string>
     <string name="exception_encountered_msg">Rätta inställningarna och få tillbaka</string>
-    <string name="applicable_reward_points">"Gällande Lojalitetspoäng</string>
-    <string name="dismiss">"Avfärda</string>
-    <string name="accept">"Acceptera</string>
-    <string name="cancel">"Annullera</string>
-    <string name="select">"Välj</string>
-    <string name="are_you_sure">"Är du säker?</string>
-    <string name="Yes">"Ja</string>
+    <string name="applicable_reward_points">Gällande Lojalitetspoäng</string>
+    <string name="dismiss">Avfärda</string>
+    <string name="accept">Acceptera</string>
+    <string name="cancel">Annullera</string>
+    <string name="select">Välj</string>
+    <string name="are_you_sure">Är du säker?</string>
+    <string name="Yes">Ja</string>
     <string name="no">Nej</string>
     <string name="gravatar">gravatar</string>
     <string name="dates_and_time_as_old">Las fechas y el tiempo como</string>
@@ -230,5 +230,22 @@
     <string name="blocktrades_instructions_d">3. Skicka ett TRADE.USDLABOR token från Bitshares konto (via webben plånbok) till "blocktrades" konto och i PM fälttyp i ditt Blocktrades konto e-postadress. Detta steg länkar dina Bitshares kontot till Blocktrades konto och bevisar att du äger Bitshares konto så att Blocktrades kan ta ut borgensbelopp tillfälligt från dina Blocktrades konto.</string>
     <string name="blocktrades_instructions_e">4. Ange din Blocktrades e-post och lösenord i fälten ovan.</string>
     <string name="blocktrades_instructions_f">> 5. Ange max transaktionsstorlek när du använder finansierade Blocktrades konto. Det belopp som du anger här kan inte överstiga den mängd TRADE.USDLABOR token du har köpt. Mer information:</string>
+
+    <string name="backup">BACKUP .bin</string>
+    <string name="secure_pin">EDIT PIN</string>
+    <string name="old_pin">Gammal 6-siffror PIN</string>
+    <string name="txt_edit">SPARA</string>
+    <string name="please_enter_old_6_digit_pin">Ange gamla 6-siffrig PIN</string>
+    <string name="incorrect_old_pin">Felaktig gamla PIN-koden</string>
+    <string name="pin_changed_successfully">PIN har ändrats</string>
+
+
+    <string name="please_enter_8_digit_pin">Ange 8-siffrig PIN</string>
+    <string name="please_enter_8_digit_pin_confirm">Ange 8-siffrig PIN bekräftelse</string>
+    <string name="txt_8_digits_pin">8-siffror PIN</string>
+<string name="txt_8_digits_pin_confirm">8-siffror PIN confirm</string>
+
+    <string name="old_pin_8_digits">Gamla 8-siffror PIN</string>
+    <string name="please_enter_old_8_digit_pin">Ange gamla 8-siffrig PIN</string>
 
 </resources>

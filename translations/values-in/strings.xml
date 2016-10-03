@@ -52,13 +52,13 @@
     <string name="txt_please_select_smartcoin">Silakan Pilih Smartcoin</string>
     <string name="license">Lisensi</string>
     <string name="exception_encountered_msg">Tolong memperbaiki pengaturan Anda dan mendapatkan kembali</string>
-    <string name="applicable_reward_points">"Reward Points Berlaku</string>
-    <string name="dismiss">"Memberhentikan</string>
-    <string name="accept">"Menerima</string>
-    <string name="cancel">"Membatalkan</string>
-    <string name="select">"Memilih</string>
-    <string name="are_you_sure">"Apakah Anda yakin?</string>
-    <string name="Yes">"Iya nih</string>
+    <string name="applicable_reward_points">Reward Points Berlaku</string>
+    <string name="dismiss">Memberhentikan</string>
+    <string name="accept">Menerima</string>
+    <string name="cancel">Membatalkan</string>
+    <string name="select">Memilih</string>
+    <string name="are_you_sure">Apakah Anda yakin?</string>
+    <string name="Yes">Iya nih</string>
     <string name="no">Tidak</string>
     <string name="gravatar">Gravatar</string>
     <string name="dates_and_time_as_old">Időpontok és időt</string>
@@ -225,5 +225,21 @@
     <string name="blocktrades_instructions_d">3. Kirim 1 TRADE.USDLABOR tanda dari akun Bitshares Anda (menggunakan dompet web) ke akun "blocktrades" dan dalam memo jenis lapangan di akun Blocktrades Anda alamat email. Langkah ini menghubungkan akun Bitshares Anda ke akun Blocktrades Anda dan membuktikan bahwa Anda memiliki akun Bitshares sehingga Blocktrades dapat menarik jumlah jaminan sementara dari akun Blocktrades Anda.</string>
     <string name="blocktrades_instructions_e">4. Masukkan email dan password Blocktrades Anda ke dalam bidang di atas.</string>
     <string name="blocktrades_instructions_f">> 5. Masukkan ukuran transaksi max saat menggunakan akun Blocktrades didanai Anda. Jumlah yang Anda masukkan di sini tidak bisa melebihi jumlah token TRADE.USDLABOR Anda beli. Info lebih lanjut:</string>
+
+    <string name="backup">bin CADANGAN</string>
+    <string name="secure_pin">PIN EDIT</string>
+    <string name="old_pin">Old PIN 6-digit</string>
+    <string name="txt_edit">MENYIMPAN</string>
+    <string name="please_enter_old_6_digit_pin">Cukup masukkan tua pin 6-digit</string>
+    <string name="incorrect_old_pin">PIN lama yang salah</string>
+    <string name="pin_changed_successfully">PIN berhasil diubah</string>
+
+    <string name="please_enter_8_digit_pin">Harap 8-digit pin</string>
+    <string name="please_enter_8_digit_pin_confirm">Harap 8-digit konfirmasi pin</string>
+    <string name="txt_8_digits_pin">8-digit PIN</string>
+<string name="txt_8_digits_pin_confirm">8-digit PIN confirm</string>
+
+    <string name="old_pin_8_digits">Old PIN 8-digit</string>
+    <string name="please_enter_old_8_digit_pin">Cukup masukkan tua pin 8-digit</string>
 
 </resources>

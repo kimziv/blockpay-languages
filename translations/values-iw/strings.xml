@@ -46,13 +46,13 @@
 
     <string name="license">רישיון</string>
     <string name="exception_encountered_msg">תקן את ההגדרות שלך ולקבל בחזרה</string>
-    <string name="applicable_reward_points">"נקודות גמול החלימו</string>
-    <string name="dismiss">"לשחרר</string>
-    <string name="accept">"לְקַבֵּל</string>
-    <string name="cancel">"לְבַטֵל</string>
-    <string name="select">"בחר</string>
-    <string name="are_you_sure">"האם אתה בטוח?</string>
-    <string name="Yes">"כן</string>
+    <string name="applicable_reward_points">נקודות גמול החלימו</string>
+    <string name="dismiss">לשחרר</string>
+    <string name="accept">לְקַבֵּל</string>
+    <string name="cancel">לְבַטֵל</string>
+    <string name="select">בחר</string>
+    <string name="are_you_sure">האם אתה בטוח?</string>
+    <string name="Yes">כן</string>
     <string name="no">לא</string>
     <string name="gravatar">Gravatar</string>
     <string name="dates_and_time_as_old">Ημερομηνίες και ώρα ως</string>
@@ -226,4 +226,19 @@
     <string name="blocktrades_instructions_e">4. הזן את כתובת הדוא"ל Blocktrades והסיסמה שלך לתוך בתחומים הנ"ל.</string>
     <string name="blocktrades_instructions_f">> 5. הזן את הגודל המרבי העסקה כאשר באמצעות חשבון Blocktrades במימון שלך. הסכום שתזין כאן לא יעלה על הסכום של אסימוני TRADE.USDLABOR שרכשת. עוד מידע:</string>
 
+    <string name="backup">.bin BACKUP</string>
+    <string name="secure_pin">PIN EDIT</string>
+    <string name="old_pin">PIN ישן 6 ספרות</string>
+    <string name="txt_edit">לשמור</string>
+    <string name="please_enter_old_6_digit_pin">הזן את מספר זיהוי של 6 ספרות ישנה</string>
+    <string name="incorrect_old_pin">PIN ישן שגוי</string>
+    <string name="pin_changed_successfully">ה- PIN שונה בהצלחה</string>
+
+    <string name="please_enter_8_digit_pin">נא להזין את הקוד הסודי בן 8 ספרות</string>
+    <string name="please_enter_8_digit_pin_confirm">נא להזין את האישור פיני 8 ספרות</string>
+    <string name="txt_8_digits_pin">PIN 8 ספרות</string>
+<string name="txt_8_digits_pin_confirm">אשר PIN 8 ספרות</string>
+
+    <string name="old_pin_8_digits">PIN ישן 8 ספרות</string>
+    <string name="please_enter_old_8_digit_pin">נא להזין את הקוד סודי בן 8 ספרות ישנה</string>
 </resources>

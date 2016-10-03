@@ -50,13 +50,13 @@
     <string name="txt_please_select_smartcoin">Smartcoin를 선택하세요</string>
     <string name="license">특허</string>
     <string name="exception_encountered_msg">설정을 수정하고 다시 보내 주시기 바랍니다</string>
-    <string name="applicable_reward_points">"해당 보상 포인트</string>
-    <string name="dismiss">"버리다</string>
-    <string name="accept">"동의</string>
-    <string name="cancel">"취소하다</string>
-    <string name="select">"고르다</string>
-    <string name="are_you_sure">"확실합니까?</string>
-    <string name="Yes">"예</string>
+    <string name="applicable_reward_points">해당 보상 포인트</string>
+    <string name="dismiss">버리다</string>
+    <string name="accept">동의</string>
+    <string name="cancel">취소하다</string>
+    <string name="select">고르다</string>
+    <string name="are_you_sure">확실합니까?</string>
+    <string name="Yes">예</string>
     <string name="no">아니</string>
     <string name="gravatar">Gravatar에</string>
     <string name="dates_and_time_as_old">日付と時刻として</string>
@@ -234,4 +234,18 @@
     <string name="blocktrades_instructions_e">4. 위의 입력란에 Blocktrades 이메일과 비밀번호를 입력합니다.</string>
     <string name="blocktrades_instructions_f">당신의 투자 Blocktrades 계정을 사용하는 경우> 5. 최대 트랜잭션 크기를 입력합니다. 여기에 입력 한 금액은 구입 한 TRADE.USDLABOR 토큰의 양을 초과 할 수 없습니다. 더 많은 정보:</string>
 
+    <string name="backup">BACKUP .BIN</string>
+    <string name="secure_pin">편집 PIN</string>
+    <string name="old_pin">이전 6 자리 PIN</string>
+    <string name="txt_edit">구하다</string>
+    <string name="please_enter_old_6_digit_pin">이전 6 자리 핀을 입력 해주세요</string>
+    <string name="incorrect_old_pin">잘못 된 PIN</string>
+    <string name="pin_changed_successfully">PIN은 성공적으로 변경</string>
+
+    <string name="please_enter_8_digit_pin">8 자리의 PIN을 입력 해주세요</string>
+    <string name="please_enter_8_digit_pin_confirm">8 자리 핀 확인을 입력하세요</string>
+    <string name="txt_8_digits_pin">8 자리의 PIN</string>
+<string name="txt_8_digits_pin_confirm">8 자리의 PIN 확인</string>
+    <string name="old_pin_8_digits">오래 된 8 자리 PIN</string>
+    <string name="please_enter_old_8_digit_pin">오래 된 8 자리의 PIN을 입력 해주세요</string>
 </resources>

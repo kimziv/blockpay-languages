@@ -50,13 +50,13 @@
 
     <string name="license">Licentie</string>
     <string name="exception_encountered_msg">Corrigeer de instellingen om terug te krijgen</string>
-    <string name="applicable_reward_points">"Toepasselijke Reward Points</string>
-    <string name="dismiss">"Negeren</string>
-    <string name="accept">"Accepteren</string>
-    <string name="cancel">"Annuleer</string>
-    <string name="select">"Selecteer</string>
-    <string name="are_you_sure">"Weet je het zeker?</string>
-    <string name="Yes">"Ja</string>
+    <string name="applicable_reward_points">Toepasselijke Reward Points</string>
+    <string name="dismiss">Negeren</string>
+    <string name="accept">Accepteren</string>
+    <string name="cancel">Annuleer</string>
+    <string name="select">Selecteer</string>
+    <string name="are_you_sure">Weet je het zeker?</string>
+    <string name="Yes">Ja</string>
     <string name="no">Nee</string>
     <string name="gravatar">gravatar</string>
     <string name="dates_and_time_as_old">Eerdere data en tijden</string>
@@ -224,6 +224,19 @@
     <string name="blocktrades_instructions_d">3. Stuur 1 TRADE.USDLABOR token van uw Bitshares-account (via het web wallet) naar de "blocktrades" account en in het memo veld typ uw Blocktrades-account e-mailadres. Deze stap koppelt uw Bitshares account aan uw Blocktrades account en bewijst dat je eigenaar bent van de Bitshares account, zodat Blocktrades borg bedragen tijdelijk kunt opnemen van uw Blocktrades account.</string>
     <string name="blocktrades_instructions_e">4. Vul uw Blocktrades e-mailadres en wachtwoord in de velden boven.</string>
     <string name="blocktrades_instructions_f">> 5. Voer de maximale omvang van de transactie wanneer u uw gefinancierd Blocktrades account. Het bedrag dat u hier invoert, kan niet hoger zijn dan het bedrag van TRADE.USDLABOR tokens u hebt aangeschaft. Meer informatie:</string>
+    <string name="backup">BACKUP .bin</string>
+    <string name="secure_pin">EDIT PIN</string>
+    <string name="old_pin">Oud 6-cijfers PIN</string>
+    <string name="txt_edit">SAVE</string>
+    <string name="please_enter_old_6_digit_pin">Vul de oude 6-cijferige pincode</string>
+    <string name="incorrect_old_pin">Onjuiste oude PIN</string>
+    <string name="pin_changed_successfully">PIN veranderd succes</string>
 
+    <string name="please_enter_8_digit_pin">Vul de 8-cijferige pincode</string>
+    <string name="please_enter_8_digit_pin_confirm">Vul de 8-cijferige pincode bevestiging</string>
+    <string name="txt_8_digits_pin">8 cijfers PIN</string>
+<string name="txt_8_digits_pin_confirm">8 cijfers PIN bevestigen</string>
 
+    <string name="old_pin_8_digits">Oude 8 cijfers PIN</string>
+    <string name="please_enter_old_8_digit_pin">Vul oude 8-cijferige pincode</string>
 </resources>

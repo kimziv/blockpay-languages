@@ -52,13 +52,13 @@
     <string name="txt_please_select_smartcoin">Виберіть Smartcoin</string>
     <string name="license">ліцензія</string>
     <string name="exception_encountered_msg">Виправте налаштування і повернутися</string>
-    <string name="applicable_reward_points">"Відповідні Reward Points</string>
-    <string name="dismiss">"Відхилити</string>
-    <string name="accept">"Прийняти</string>
-    <string name="cancel">"Скасувати</string>
-    <string name="select">"Вибрати</string>
-    <string name="are_you_sure">"Ти впевнений?</string>
-    <string name="Yes">"Так</string>
+    <string name="applicable_reward_points">Відповідні Reward Points</string>
+    <string name="dismiss">Відхилити</string>
+    <string name="accept">Прийняти</string>
+    <string name="cancel">Скасувати</string>
+    <string name="select">Вибрати</string>
+    <string name="are_you_sure">Ти впевнений?</string>
+    <string name="Yes">Так</string>
     <string name="no">Немає</string>
     <string name="gravatar">Gravatar</string>
     <string name="dates_and_time_as_old">Tarihler ve Zaman gibi</string>
@@ -232,4 +232,18 @@
     <string name="blocktrades_instructions_e">4. Введіть Blocktrades адреса електронної пошти та пароль в полях вище.</string>
     <string name="blocktrades_instructions_f">> 5. Введіть максимальний розмір транзакції при використанні коштів на рахунку Blocktrades. Сума, яку ви вводите тут не може перевищувати суму TRADE.USDLABOR жетонів ви придбали. Більше інформації:</string>
 
+    <string name="backup">BACKUP .bin</string>
+    <string name="secure_pin">EDIT PIN</string>
+    <string name="old_pin">Старий 6-цифри PIN-коду</string>
+    <string name="txt_edit">SAVE</string>
+    <string name="please_enter_old_6_digit_pin">Будь ласка, введіть старий 6-значний PIN-код</string>
+    <string name="incorrect_old_pin">Некоректне старий PIN-код</string>
+    <string name="pin_changed_successfully">PIN-код успішно змінений</string>
+
+    <string name="please_enter_8_digit_pin">Будь ласка, введіть 8-значний PIN-код</string>
+    <string name="please_enter_8_digit_pin_confirm">Будь ласка, введіть 8-значний пін-підтвердження</string>
+    <string name="txt_8_digits_pin">8-цифр PIN</string>
+    <string name="txt_8_digits_pin_confirm">PIN-код підтвердження 8-цифр</string>
+    <string name="old_pin_8_digits">Старий 8-цифри PIN</string>
+    <string name="please_enter_old_8_digit_pin">Будь ласка, введіть старий 8-значний PIN-код</string>
 </resources>

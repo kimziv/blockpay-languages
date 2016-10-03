@@ -52,13 +52,13 @@
     <string name="txt_please_select_smartcoin">Smartcoin Seçiniz</string>
     <string name="license">Lisans</string>
     <string name="exception_encountered_msg">Ayarlarınızı düzeltmek ve geri almak Lütfen</string>
-    <string name="applicable_reward_points">"Uygulanabilir Ödül Puanları</string>
-    <string name="dismiss">"Yok Say</string>
-    <string name="accept">"Kabul etmek</string>
-    <string name="cancel">"İptal</string>
-    <string name="select">"Seçmek</string>
-    <string name="are_you_sure">"Emin misiniz?</string>
-    <string name="Yes">"Evet</string>
+    <string name="applicable_reward_points">Uygulanabilir Ödül Puanları</string>
+    <string name="dismiss">Yok Say</string>
+    <string name="accept">Kabul etmek</string>
+    <string name="cancel">İptal</string>
+    <string name="select">Seçmek</string>
+    <string name="are_you_sure">Emin misiniz?</string>
+    <string name="Yes">Evet</string>
     <string name="no">Yok hayır</string>
     <string name="gravatar">Gravatar</string>
     <string name="dates_and_time_as_old">วันที่และเวลาในฐานะที่เป็น</string>
@@ -231,5 +231,20 @@
     <string name="blocktrades_instructions_d">3. "blocktrades" hesabına ve Blocktrades e-posta adresinizi hesap memo alan türü olarak (web cüzdanınızı kullanarak) Bitshares hesabınızdan 1 TRADE.USDLABOR belirteci gönder. Bu adım, Blocktrades hesabınıza Bitshares hesap bağlar ve size Blocktrades hesabınızdan Blocktrades geçici kefalet tutarları çekebilirsiniz böylece Bitshares hesap sahibi olduğunuzu kanıtlıyor.</string>
     <string name="blocktrades_instructions_e">4. Yukarıdaki alanlara Blocktrades e-posta ve şifrenizi girin.</string>
     <string name="blocktrades_instructions_f">senin finanse Blocktrades hesabını kullanırken> 5. maksimum işlem boyutunu girin. Buraya girdiğiniz miktar satın almış TRADE.USDLABOR belirteçleri miktarını geçemez. Daha fazla bilgi:</string>
+
+    <string name="backup">YEDEK Bin</string>
+    <string name="secure_pin">DÜZENLEME PIN</string>
+    <string name="old_pin">Eski 6 haneli bir PIN</string>
+    <string name="txt_edit">KAYIT ETMEK</string>
+    <string name="please_enter_old_6_digit_pin">Eski 6 basamaklı pin girin</string>
+    <string name="incorrect_old_pin">Yanlış eski PIN</string>
+    <string name="pin_changed_successfully">PIN kodu başarıyla değiştirildi</string>
+
+    <string name="please_enter_8_digit_pin">8 basamaklı pin girin</string>
+    <string name="please_enter_8_digit_pin_confirm">8 basamaklı pim onay girin</string>
+    <string name="txt_8_digits_pin">8-basamaklı bir PIN</string>
+    <string name="txt_8_digits_pin_confirm">8-basamaklı bir PIN onayla</string>
+    <string name="old_pin_8_digits">Eski 8-basamaklı bir PIN</string>
+    <string name="please_enter_old_8_digit_pin">eski 8 basamaklı pin girin</string>
 
 </resources>

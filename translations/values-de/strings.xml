@@ -52,14 +52,15 @@
     <string name="txt_please_select_smartcoin">Bitte wählen Sie die Smartcoin´s aus</string>
 
     <string name="license">Lizenz</string>
+
     <string name="exception_encountered_msg">Bitte korrigieren Sie Ihre Einstellungen</string>
-    <string name="applicable_reward_points">"Anwendbar Belohnungspunkte</string>
-    <string name="dismiss">"Entlassen</string>
-    <string name="accept">"Akzeptieren</string>
-    <string name="cancel">"Abbrechen</string>
-    <string name="select">"Wählen</string>
-    <string name="are_you_sure">"Bist du dir sicher?</string>
-    <string name="Yes">"Ja</string>
+    <string name="applicable_reward_points">Anwendbar Belohnungspunkte</string>
+    <string name="dismiss">Entlassen</string>
+    <string name="accept">Akzeptieren</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="select">Wählen</string>
+    <string name="are_you_sure">Bist du dir sicher?</string>
+    <string name="Yes">Ja</string>
     <string name="no">Nein</string>
     <string name="gravatar">Gravatar</string>
     <string name="dates_and_time_as_old">Datum und Zeit</string>
@@ -229,4 +230,19 @@
     <string name="blocktrades_instructions_e">4. Geben Sie im BlockPay App Ihre Blocktrades E-Mail Adresse und Ihr Passwort ein.</string>
     <string name="blocktrades_instructions_f">Enter> 5. Legen Sie die maximale Transaktionsgröße fest, die Sie per "Fast-Transaktion" erhalten möchten. Der Betrag darf nicht den Kontostand an TRADE.USDLABOR in Ihrem Konto übersteigen. Mehr Info:</string>
 
+    <string name="backup">BACKUP .bin</string>
+    <string name="secure_pin">EDIT PIN</string>
+    <string name="old_pin">Alt 6-stellig PIN</string>
+    <string name="txt_edit">SPAREN</string>
+    <string name="please_enter_old_6_digit_pin">Bitte geben Sie alte 6-stelligen PIN</string>
+    <string name="incorrect_old_pin">Falsche alte PIN</string>
+    <string name="pin_changed_successfully">PIN erfolgreich geändert</string>
+
+    <string name="please_enter_8_digit_pin">Bitte geben Sie 8-stelligen PIN</string>
+    <string name="please_enter_8_digit_pin_confirm">Bitte geben Sie 8-stelligen PIN-Bestätigung</string>
+    <string name="txt_8_digits_pin">8-stellige PIN</string>
+<string name="txt_8_digits_pin_confirm">8-stellige PIN bestätigen</string>
+
+    <string name="old_pin_8_digits">Alt 8-stellige PIN</string>
+    <string name="please_enter_old_8_digit_pin">Bitte geben Sie alte 8-stelligen PIN</string>
 </resources>

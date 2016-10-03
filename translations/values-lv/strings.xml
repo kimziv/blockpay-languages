@@ -51,13 +51,13 @@
 
     <string name="license">licence</string>
     <string name="exception_encountered_msg">Lūdzu noteikt iestatījumus un saņemt atpakaļ</string>
-    <string name="applicable_reward_points">"Piemērojamie Reward Points</string>
-    <string name="dismiss">"Noraidīt</string>
-    <string name="accept">"Pieņemt</string>
-    <string name="cancel">"Atcelt</string>
-    <string name="select">"Izvēlieties</string>
-    <string name="are_you_sure">"Vai tu esi pārliecināts?</string>
-    <string name="Yes">"Jā</string>
+    <string name="applicable_reward_points">Piemērojamie Reward Points</string>
+    <string name="dismiss">Noraidīt</string>
+    <string name="accept">Pieņemt</string>
+    <string name="cancel">Atcelt</string>
+    <string name="select">Izvēlieties</string>
+    <string name="are_you_sure">Vai tu esi pārliecināts?</string>
+    <string name="Yes">Jā</string>
     <string name="no">nē</string>
     <string name="gravatar">Gravatar</string>
     <string name="dates_and_time_as_old">날짜 및 시간으로</string>
@@ -232,5 +232,22 @@
     <string name="blocktrades_instructions_d">3. Nosūtīt 1 TRADE.USDLABOR marķieris no sava Bitshares kontā (izmantojot tīmekļa maku) ar "blocktrades" kontu un Piezīmju laukā ierakstiet savu Blocktrades konta e-pasta adresi. Šis solis saites jūsu Bitshares kontu jūsu Blocktrades kontu un pierāda, ka jums pieder Bitshares kontu, lai Blocktrades var izņemt galvojuma summas uz laiku no jūsu Blocktrades kontā.</string>
     <string name="blocktrades_instructions_e">4. Ievadiet savu e-pasta adresi Blocktrades un paroli virs laukiem.</string>
     <string name="blocktrades_instructions_f">> 5. Ievadiet max darījuma lielumu, kad, izmantojot savu finansēts Blocktrades kontu. Summa, ko jūs šeit nedrīkst pārsniegt summu, TRADE.USDLABOR žetoniem esat iegādājies. Vairāk informācijas:</string>
+
+
+    <string name="backup">BACKUP bin</string>
+    <string name="secure_pin">EDIT PIN</string>
+    <string name="old_pin">Old 6-ciparu PIN</string>
+    <string name="txt_edit">SAVE</string>
+    <string name="please_enter_old_6_digit_pin">Ievadiet veco 6-ciparu PIN</string>
+    <string name="incorrect_old_pin">Nepareizs veco PIN</string>
+    <string name="pin_changed_successfully">PIN veiksmīgi mainīts</string>
+
+    <string name="please_enter_8_digit_pin">Ievadiet 8 ciparu PIN</string>
+    <string name="please_enter_8_digit_pin_confirm">Ievadiet 8-ciparu PIN apstiprinājums</string>
+    <string name="txt_8_digits_pin">8-ciparu PIN</string>
+<string name="txt_8_digits_pin_confirm">8-ciparu PIN Apstiprināt</string>
+
+    <string name="old_pin_8_digits">Old 8-ciparu PIN</string>
+    <string name="please_enter_old_8_digit_pin">Ievadiet veco 8-ciparu PIN</string>
 
 </resources>

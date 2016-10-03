@@ -51,13 +51,13 @@
     <string name="txt_please_select_smartcoin">Молимо изаберите Смартцоин</string>
     <string name="license">лиценца</string>
     <string name="exception_encountered_msg">Молимо вас да исправите подешавања и вратити се</string>
-    <string name="applicable_reward_points">"Важећи Ревард Поинтс</string>
-    <string name="dismiss">"Одбацивање</string>
-    <string name="accept">"Прихвати</string>
-    <string name="cancel">"Откажи</string>
-    <string name="select">"Селецт</string>
-    <string name="are_you_sure">"Да ли сте сигурни?</string>
-    <string name="Yes">"Да</string>
+    <string name="applicable_reward_points">Важећи Ревард Поинтс</string>
+    <string name="dismiss">Одбацивање</string>
+    <string name="accept">Прихвати</string>
+    <string name="cancel">Откажи</string>
+    <string name="select">Селецт</string>
+    <string name="are_you_sure">Да ли сте сигурни?</string>
+    <string name="Yes">Да</string>
     <string name="no">Не</string>
     <string name="gravatar">граватар</string>
     <string name="dates_and_time_as_old">Даты и времени, как</string>
@@ -232,5 +232,19 @@
     <string name="blocktrades_instructions_d">3. Пошаљите 1 ТРАДЕ.УСДЛАБОР токен из свог Битсхарес налог (користећи веб новчаник) у "блоцктрадес" рачуна и на меморандуму типа поља у твоје Блоцктрадес налогу емаил адресу. Овај корак повезује ваш Битсхарес рачуна на ваш рачун Блоцктрадес и доказује да сте власник је Битсхарес рачун, тако да Блоцктрадес може повући јемство износе привремено од твоје Блоцктрадес рачуна.</string>
     <string name="blocktrades_instructions_e">4. Унесите Блоцктрадес емаил и лозинку у поља изнад.</string>
     <string name="blocktrades_instructions_f">> 5. Унесите максималну величину трансакције приликом коришћења финансира Блоцктрадес налог. Износ који унесете овде не може бити већи од износа ТРАДЕ.УСДЛАБОР токена коју сте купили. Више информација:</string>
+    <string name="backup">Бацкуп .бин</string>
+    <string name="secure_pin">ЕДИТ ПИН-</string>
+    <string name="old_pin">Старо 6-ПИН код</string>
+    <string name="txt_edit">САВЕ</string>
+    <string name="please_enter_old_6_digit_pin">Унесите стару 6 цифара</string>
+    <string name="incorrect_old_pin">Нетачно стари ПИН</string>
+    <string name="pin_changed_successfully">ПИН је успешно промењен</string>
 
+    <string name="please_enter_8_digit_pin">Молимо Вас да унесете 8 цифара</string>
+    <string name="please_enter_8_digit_pin_confirm">Унесите 8 цифара потврду пин</string>
+    <string name="txt_8_digits_pin">8-ПИН код</string>
+<string name="txt_8_digits_pin_confirm">8-ПИН код за потврду</string>
+
+    <string name="old_pin_8_digits">Старо 8-ПИН код</string>
+    <string name="please_enter_old_8_digit_pin">Унесите стару 8 цифара</string>
 </resources>

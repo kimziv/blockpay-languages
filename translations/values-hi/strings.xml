@@ -45,13 +45,13 @@
     <string name="txt_please_select_smartcoin">कृपया Smartcoin का चयन करें</string>
     <string name="license">लाइसेंस</string>
     <string name="exception_encountered_msg">अपनी सेटिंग्स को ठीक करने और वापस मिलता है</string>
-    <string name="applicable_reward_points">"लागू इनाम अंक</string>
-    <string name="dismiss">"बर्खास्त</string>
-    <string name="accept">"स्वीकार करना</string>
-    <string name="cancel">"रद्द करना</string>
-    <string name="select">"चुनते हैं</string>
-    <string name="are_you_sure">"क्या आपको यकीन है?</string>
-    <string name="Yes">"हाँ</string>
+    <string name="applicable_reward_points">लागू इनाम अंक</string>
+    <string name="dismiss">बर्खास्त</string>
+    <string name="accept">स्वीकार करना</string>
+    <string name="cancel">रद्द करना</string>
+    <string name="select">चुनते हैं</string>
+    <string name="are_you_sure">क्या आपको यकीन है?</string>
+    <string name="Yes">हाँ</string>
     <string name="no">नहीं</string>
     <string name="gravatar">Gravatar</string>
     <string name="dates_and_time_as_old">תאריכים וככל שזמן</string>
@@ -227,5 +227,21 @@
     <string name="blocktrades_instructions_d">3. "blocktrades" खाते और मेमो फ़ील्ड प्रकार अपने Blocktrades खाता ईमेल पते में अपने Bitshares खाते से 1 TRADE.USDLABOR टोकन भेजें (वेब ​​बटुए का उपयोग)। इस कदम के लिए अपने Bitshares खाते से अपने Blocktrades खाता लिंक और साबित करता है कि आप खुद Bitshares खाता है, ताकि Blocktrades से अपने Blocktrades खाता ज़मानत मात्रा में अस्थायी रूप से वापस ले सकते हैं।</string>
     <string name="blocktrades_instructions_e">4. उपर्युक्त क्षेत्रों में अपने Blocktrades ईमेल और पासवर्ड दर्ज करें।</string>
     <string name="blocktrades_instructions_f">> 5. जब आपके वित्त पोषित Blocktrades खाते का उपयोग कर अधिकतम लेनदेन आकार दर्ज करें। राशि है कि आप यहाँ दर्ज TRADE.USDLABOR टोकन की राशि तुम खरीदा है से अधिक नहीं हो सकता है। और जानकारी:</string>
+
+    <string name="backup">बैकअप बिन</string>
+    <string name="secure_pin">संपादित पिन</string>
+    <string name="old_pin">वर्ष 6 अंक पिन</string>
+    <string name="txt_edit">बचाना</string>
+    <string name="please_enter_old_6_digit_pin">वर्ष 6 अंकों का पिन दर्ज करें</string>
+    <string name="incorrect_old_pin">गलत पुराना पिन</string>
+    <string name="pin_changed_successfully">पिन सफलतापूर्वक बदल</string>
+
+    <string name="please_enter_8_digit_pin">8 अंकों का पिन दर्ज करें</string>
+    <string name="please_enter_8_digit_pin_confirm">8 अंकों का पिन पुष्टि दर्ज करें</string>
+    <string name="txt_8_digits_pin">8 अंक पिन</string>
+<string name="txt_8_digits_pin_confirm">8 अंक पिन की पुष्टि</string>
+
+    <string name="old_pin_8_digits">वर्ष 8 अंक पिन</string>
+    <string name="please_enter_old_8_digit_pin">वर्ष 8 अंकों का पिन दर्ज करें</string>
 
 </resources>
